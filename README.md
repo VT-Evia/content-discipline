@@ -1,4 +1,4 @@
 # Technical Communication and the Discipline of Content
 
 
-See the [Wiki](https://github.com/VT-Evia/content-discipline/wiki) for more information.
+Companion repository for the book [Technical Communication and the Discipline of Content: Considerations for Research, Training, and Career Readiness](Technical Communication and the Discipline of Content Considerations for Research, Training, and Career Readiness), by Rebekka Andersen and Carlos Evia.
