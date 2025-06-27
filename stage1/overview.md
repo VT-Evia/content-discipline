@@ -1,6 +1,7 @@
-# Situating *Our* Type of Content
+# Stage 1: Situating *Our* Type of Content
 
-## Overview
+## Overview  
+This stage is about understanding the landscape of the discipline of content and the particular kind of content on which the discipline focuses--structured, technical content. 
 
 ## Learning Objectives
 
