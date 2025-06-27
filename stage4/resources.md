@@ -1,4 +1,4 @@
-# Technical Communication and the Discipline of Content
+# Stage 4 resources
 
-
-See the [Wiki](https://github.com/VT-Evia/content-discipline/wiki) for more information.
+- DITA OT Actions template
+- Markdown/Pandoc Actions template
