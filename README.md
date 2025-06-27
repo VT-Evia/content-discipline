@@ -6,6 +6,6 @@ Companion repository for the book [Technical Communication and the Discipline of
 ## Stages
 
 - [Stage 1](stage1/overview.md)
-- [Stage 2](stage1/overview.md)
-- [Stage 3](stage1/overview.md)
-- [Stage 4](stage1/overview.md)
+- [Stage 2](stage2/overview.md)
+- [Stage 3](stage3/overview.md)
+- [Stage 4](stage4/overview.md)
