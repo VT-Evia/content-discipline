@@ -1,4 +1,4 @@
-# Activity Name
+# Exploring Different Types of Content
 
 
 
