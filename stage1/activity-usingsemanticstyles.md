@@ -7,8 +7,8 @@ Ideally, every element of your document—headings, paragraphs, images, lists, a
 
 ## Needed Resources
 To complete this activity, you will need to reference the following resources:
-* Make Your Word Documents Accessible to People with Disabilities by Microsoft Support
-* Creating Accessible Word Documents by CSUSM Instructional and Information Technology Services
+* [Make Your Word Documents Accessible to People with Disabilities](https://support.microsoft.com/en-us/office/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d) by Microsoft Support
+* [Creating Accessible Word Documents](https://www.csusm.edu/iits/services/accessibility/guides/word.html) by CSUSM Instructional and Information Technology Services
 
 And you will need to use Microsoft Word and open the Unformatted Memo Report.
 
