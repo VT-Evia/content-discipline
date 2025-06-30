@@ -17,11 +17,10 @@ Listed resources are divided into three categories: Surveys of the Content Disci
 ## Activities
 The activities included in this stage are introductory and can be completed in word processing apps. 
 
-Exploring Different Types of Content 
-Creating a Multimedia Project Script  
-Combining Scripts and Multimedia Content  
-Using Semantic Styles in Word Processing  
-Analyzing Topic-Based Documentation 
-Analyzing Users and Tasks  
-Identifying Content Types and Relationships
-
+* Exploring Different Types of Content 
+* Creating a Multimedia Project Script  
+* Combining Scripts and Multimedia Content  
+* Using Semantic Styles in Word Processing  
+* Analyzing Topic-Based Documentation 
+* Analyzing Users and Tasks  
+* Identifying Content Types and Relationships
