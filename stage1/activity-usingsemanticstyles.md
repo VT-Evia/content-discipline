@@ -14,4 +14,4 @@ And you will need to use Microsoft Word and open the Unformatted Memo Report.
 
 ## Steps
 
-1. Open the Unformatted Memo Report. Then, activate the paragraph mark symbol ![paragraph mark symbol](images/paramark.jpg) accessible in the Home tab in the Paragraph group.
+1. Open the Unformatted Memo Report. Then, activate the paragraph mark symbol ![paragraph mark symbol](paramark.png) accessible in the Home tab in the Paragraph group.
