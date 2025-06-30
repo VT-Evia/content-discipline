@@ -13,7 +13,7 @@ Through readings, discussions, and activities, instructors introducing students 
 * explore possibilities for typing and structuring content content and for combining content modules and assets in different ways
 
 ## Resources
-Listed resources are divided into three categories: Surveys of the Content Discipline, Definitions of Content, Explanations of Structured Authoring. We recommend assigning a few resources that describe the content discipline and define content and following up with a class discussion (perhaps after students have completed a reading response). After sorting out definitions and gaining a good understanding of the what and why of the content discipline, we recommend assigning a few resources that explain structuring authoring and the DITA standard.     
+Listed [resources](stage1/resources.md) are divided into three categories: Surveys of the Content Discipline, Definitions of Content, Explanations of Structured Authoring. We recommend assigning a few resources that describe the content discipline and define content and following up with a class discussion (perhaps after students have completed a reading response). After sorting out definitions and gaining a good understanding of the what and why of the content discipline, we recommend assigning a few resources that explain structuring authoring and the DITA standard.     
 
 ## Activities
 The activities included in this stage are introductory and can be completed in word processing apps. 
