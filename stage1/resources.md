@@ -8,6 +8,7 @@
 #### Articles and Chapters
 * Andersen, R. (2014). Rhetorical work in the age of content management: Implications for the field of technical communication. *Journal of Business and Technical Communication*, 28(2), 115–157.
 * Andersen, R, & Batova, T. (2015). The current state of component content management: An integrative literature review. *IEEE Transactions on Professional Communication*, 58(3), 247–270.
+* Andersen, R. & Evia, C. (2026). Emergence of the discipline of content. *Technical communication and the discipline of content: Considerations for research, training, and career readiness* (pp. x–y). New York: Routledge. FORTHCOMING
 * Evia, C., & Andersen, R. (2020). Beyond management: Understanding the many forces that shape content today. In T. Bridgeford (Ed.), *Teaching content management in technical and professional communication*, (pp. 213–231). New York: Routledge.
 
 ## Definitions of Content  
@@ -24,7 +25,7 @@
 #### Books
 * Bailie, R., & Urbina, N. (2013). *Content strategy: Connecting the dots between business, brand, and benefits*. Laguna Hills, CA: XML Press. *[suggest pages X-Y]*
 * Eichhorn, K. (2022). *Content*. Cambridge, MA: The MIT Press.
-* Rockley, A., Cooper, C., & Abel, S. (2015). *Intelligent Content: A Primer*. Laguna Hills, CA XML Press.
+* Rockley, A., Cooper, C., & Abel, S. (2015). *Intelligent content: A primer*. Laguna Hills, CA XML Press.
 
 ## Explanations of Structured Authoring 
 
