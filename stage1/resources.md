@@ -30,3 +30,19 @@ CA XML Press.
 #### Books
 
 ## Explanations of Structured Authoring 
+
+#### Videos, Webinars, and Podcasts
+
+#### Articles and Chapters
+* [Getting Started with Topic-Based Writing](https://techwhirl.com/getting-started-with-topic-based-writing/) by Jackquei Samuels on TechWhirl
+* [The Essential Guide to Topic-Based Authoring](https://paligo.net/blog/structured-authoring/the-essential-guide-to-topic-based-authoring/) by Heather Jonasson at Paligo
+* Bellamy, L., Carey, M., & Schlotfeldt, J. (2011). *DITA best practices: A roadmap for writing, editing, and architecting in DITA*. Upper Saddle River, NJ: IBM Press.
+* Frantiska, J. (2018). Information mapping. *Visualization Tools for Learning Development* (pp. 31–35). New York: Springer.
+* Hackos, J. (2011). *Introduction to DITA: A user guide to the Darwin Information Typing Architecture including DITA 1.2* (2nd ed.). Comtech Services, Inc.
+* O’Keefe, S., & Pringle, A. (2017, April 12). [Structured authoring and XML](https://www.scriptorium.com/structure.pdf). [White paper]. Research Triangle Park, NC: Scriptorium Publishing Services.
+* Swarts, J. (2020). Writing about structure in DITA. In T. Bridgeford (Ed.), *Teaching content management in technical and professional communication* (pp. 155–173). New York: Routledge.
+
+
+
+
+
