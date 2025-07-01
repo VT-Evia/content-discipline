@@ -13,7 +13,7 @@
 * Bailie, R., & Urbina, N. (2013). *Content strategy: Connecting the dots between business, brand, and benefits*. Laguna Hills, CA: XML Press.
 * Getto, G., Labriola, J., & Ruszkiewicz, S. (2019). Content strategy in technical communication. New York: Routledge.
   
-Note that these books also include detailed activities and templates for planning and conducting a content strategy.
+Note that the following books also include detailed activities and templates for planning and conducting a content strategy.
 * Jones, C. (2019). *The content advantage (Clout 2.0)*. San Francisco, CA: New Riders.
 * Casey, M. (2023). *The content strategy toolkit: Methods, guidelines, and templates for getting content right*, 2nd Edition. Hoboken, NJ: New Riders.
 * Getto, G., Labriola, J., & Ruszkiewicz, S. (2023). *Content strategy: A how-to guide*. New York: 
