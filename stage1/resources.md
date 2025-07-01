@@ -8,7 +8,7 @@
 #### Articles and Chapters
 * Andersen, R. (2014). Rhetorical work in the age of content management: Implications for the field of technical communication. *Journal of Business and Technical Communication*, 28(2), 115–157.
 * Andersen, R, & Batova, T. (2015). The current state of component content management: An integrative literature review. *IEEE Transactions on Professional Communication*, 58(3), 247–270.
-* Andersen, R. & Evia, C. (2026). Emergence of the discipline of content. *Technical communication and the discipline of content: Considerations for research, training, and career readiness* (pp. x–y). New York: Routledge. FORTHCOMING
+* **DoC BOOK** - assign Chapter 2: Andersen, R. & Evia, C. (2026). Emergence of the discipline of content. *Technical communication and the discipline of content: Considerations for research, training, and career readiness* (pp. x–y). New York: Routledge. FORTHCOMING
 * Evia, C., & Andersen, R. (2020). Beyond management: Understanding the many forces that shape content today. In T. Bridgeford (Ed.), *Teaching content management in technical and professional communication*, (pp. 213–231). New York: Routledge.
 
 ## Definitions of Content  
@@ -36,6 +36,7 @@
 #### Articles and Chapters
 * [Getting Started with Topic-Based Writing](https://techwhirl.com/getting-started-with-topic-based-writing/) by Jackquei Samuels on TechWhirl
 * [The Essential Guide to Topic-Based Authoring](https://paligo.net/blog/structured-authoring/the-essential-guide-to-topic-based-authoring/) by Heather Jonasson at Paligo
+* **DoC BOOK** - assign section on "Structured Authoring" in Chapter 3: Andersen, R. & Evia, C. (2026). Changing Technical Communication Roles and Activities. *Technical communication and the discipline of content: Considerations for research, training, and career readiness* (pp. x–y). New York: Routledge. FORTHCOMING
 * Bellamy, L., Carey, M., & Schlotfeldt, J. (2011). *DITA best practices: A roadmap for writing, editing, and architecting in DITA*. Upper Saddle River, NJ: IBM Press.
 * Frantiska, J. (2018). Information mapping. *Visualization Tools for Learning Development* (pp. 31–35). New York: Springer.
 * Hackos, J. (2011). *Introduction to DITA: A user guide to the Darwin Information Typing Architecture including DITA 1.2* (2nd ed.). Comtech Services, Inc.
