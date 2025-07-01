@@ -3,6 +3,9 @@
 ## Content Strategy Definitions and Descriptions
 
 #### Videos, Webinars, and Podcasts
+* [The Content Strategy Podcast](https://www.braintraffic.com/podcast) [podcast] hosted by Kristina Halvorson
+* [Content Matters](https://creators.spotify.com/pod/profile/content-matters/) [podcast] sponsored by Ingeniux
+* [Content Operations] (https://www.scriptorium.com/category/podcast/) [podcast] hosted by Scriptorium
 
 #### Articles and Chapters
 * Bailie, R. (2019). Content strategy. *Technical Communication*, 66(2), 121–124.
