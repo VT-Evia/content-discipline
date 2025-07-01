@@ -11,8 +11,7 @@ Through readings, discussions, and activities, instructors introducing students 
 * understand how generative AI tools are used in the content life cycle, including as role-playing tools when conducting audience analysis (students can use an AI model as a user persona
 
 ## Resources
-
-
+List [resources](resources.md) focus on content strategy definitions and descriptions, with three books additionally offering detailed activities and templates for planning and conducting a content strategy. 
 
 ## Activities
 point folks to the activities and templates in the three books... and to Tatiana's content audit activity
