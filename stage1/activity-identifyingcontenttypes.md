@@ -14,14 +14,14 @@ After completing the readings and the two activities, students will develop a st
 
 We recommend assigning the following resources focused on structured authoring and DITA. 
 
-* Section on "Structured Authoring" in Chapter 3: Andersen, R. & Evia, C. (2026). Changing Technical Communication Roles and Activities. Technical communication and the discipline of content: Considerations for research, training, and career readiness (pp. x–y). New York: Routledge.
+* Section on "Structured Authoring" in Chapter 3: Andersen, R. & Evia, C. (2026). Changing Technical Communication Roles and Activities. *Technical communication and the discipline of content: Considerations for research, training, and career readiness* (pp. x–y). New York: Routledge.
 * [What is Structured Content?](https://www.youtube.com/watch?v=7SWhLVaWVP8&list=PL4ZeW5ujwMiHejcQaJrhxlSCHcRqlTidx&index=3) [video] by Heretto
 * [What is DITA XML?](https://www.youtube.com/watch?v=Y9SzB5KceIQ&list=PL4ZeW5ujwMiHejcQaJrhxlSCHcRqlTidx&index=7) [video] by Heretto
 * What are DITA Topics? by Stan Doherty, ACM SIGDOC Structured Authoring Committee - find article in multiple formats on the [Curriculum Resources](https://acm-sigdoc-structured.org/1-curriculum-resources.html) page of the committee website
 
 ## Optional Slide Deck for Lecture
 
-* Overview of Topic-Based, Structured Content + DITA
+* Overview of Topic-Based, Structured Content + DITA (pdf)
 
 ## Activity Description
 
@@ -34,9 +34,9 @@ The activity asks students to apply their understanding of information typing an
 Suggested Example Documents to Examine (feel free to choose different documents)
 
 * Recipe – [Crispy Vegan Tofu Schnitzel](https://healthfulblondie.com/wprm_print/39547)
-* Installation Guide – Kohler Lighting Fixture
-* Installation Guide – Kohler Kitchen Faucet
-* Conference Proceeding – ”What Content Strategists Do and Earn”
+* Installation Guide – Kohler Lighting Fixture (pdf)
+* Installation Guide – Kohler Kitchen Faucet (pdf)
+* Conference Proceeding – ”What Content Strategists Do and Earn” (pdf)
 * A page from a department or campus center website, such as one focused on an internship program, a study abroad program, or writing center services (ideally the page would include different types of information). 
 
 Instructors might begin the activity by facilitating a large-group discussion of an example document. The Kohler kitchen faucet installation guide is a good one to ask students to examine for a few minutes with these questions in mind: What types of information can you identify? Could these information types be classified as concept, task, and reference topics? Which ones? After discussing the guide as a large group, instructors might show students the [Kohler website](www.kohler.com) and identify where the installation guide (and other guides) exist. 
@@ -48,11 +48,8 @@ After this large-group discussion, instructors can assign the information typing
 Ask students to examine two or three unstructured documents and do the following:
 
 * Identify common information types appearing in the document – mark and label them (give them descriptive names).
-
 * Determine the relationship between pieces of information (e.g., dependencies, order). Are parent/child relationships evident? For example, does an information unit that is clearly a task (procedure) include conceptual information, steps, examples, or other elements?
-
 * Determine the rules by which the information types are ordered. Is there an apparent logic to the rules? Do information types consistently include similar rhetorical moves or elements? 
-
 * Create a plan for how you would rewrite and reorganize the document into a collection of topics. What concept, task, and reference topics might you create?
 
 
