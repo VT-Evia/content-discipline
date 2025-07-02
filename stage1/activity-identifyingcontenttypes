@@ -1,0 +1,11 @@
+# Identifying Content Types and Relationships
+
+## Activity Goals
+
+This activity introduces students to the concepts of structured authoring, structured content, and Darwin Information Typing Architecture (DITA). Students will learn about the concepts through readings and apply their understanding through an information typing exercise. 
+
+A major trend in user documentation is the move to create information deliverables composed of collections of modular topics, or chunks of stand-alone content, that each focus on one thing, such as answering one question (e.g., How do I?) or explaining one concept (e.g., What is X?). In the field of technical communication, topic-based, modular content development is frequently achieved through the use of XML and, particularly, the standard known as the Darwin Information Typing Architecture (DITA).
+
+This activity, then, is ideally paired with the activity Analyzing Topic-Based Documentation. 
+
+After completing the readings and the two activities, students will develop a strong grasp of the importance of topic-based content development and the DITA content standard (and how it provides a set of rules for structuring topics).
