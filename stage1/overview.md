@@ -26,6 +26,7 @@ The activities included in this stage are introductory and can be completed in w
 * Creating a Multimedia Project Script  
 * Combining Scripts and Multimedia Content  
 * [Using Semantic Styles in Word Processing](activity-usingsemanticstyles.md)  
-* [Analyzing Topic-Based Documentation](activity-analyzingdocumentation.md) 
+* [Analyzing Topic-Based Documentation](activity-analyzingdocumentation.md)
+* [Identifying Content Types and Relationships](activity-identifyingcontenttypes.md)
 * Analyzing Users and Tasks  
-* Identifying Content Types and Relationships
+
