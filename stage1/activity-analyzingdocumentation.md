@@ -6,7 +6,7 @@ This activity introduces students to the concepts of topic-based writing and inf
 
 A major trend in user documentation is the move to create information deliverables composed of collections of modular topics, or chunks of stand-alone content, that each focus on one thing, such as answering one question (e.g., How do I?) or explaining one concept (e.g., What is X?). In the field of technical communication, topic-based, modular content development is frequently achieved through the use of XML and, particularly, the standard known as the Darwin Information Typing Architecture (DITA).
 
-This activity, then, is ideally paired with the activity Identifying Content Types and Relationships. 
+This activity, then, is ideally paired with the activity [Identifying Content Types and Relationships](activity-identifyingcontenttypes.md). 
 
 After completing the readings and this activity, students will develop a strong grasp of the goals of topic-based content development and approaches to typing—or classifying—content.
 
