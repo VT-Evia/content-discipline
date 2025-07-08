@@ -10,6 +10,12 @@ If teaching a course that includes a curricular unit on content strategy, we rec
 
 We recommend that students work through the following activities in developing a content strategy plan.
 
+* Conducting audience and stakeholder analyses
+* Conducting a content audit
+* Conducting a gap analysis
+* Creating a content model ???
+* Developing a content strategy plan
+
 #### Conducting Audience and Stakeholder Analyses
 
 Although audience analysis and stakeholder analysis are two different activities, we include them together because they require identifying actual people who either interact with content as users or interact with content as business stakeholders. 
@@ -64,7 +70,7 @@ see in Casey - Convince Leaders and Get the Resources
 
 see in Getto, Labriola, and Ruszkiewicz - Assembling a Content Strategy Plan
 
-include in this plan specifications for content structure and requirements (i.e., a content model?)
+**???include in this plan specifications for content structure and requirements (i.e., a content model?) OR include a separate activity focused on Creating a Content Model?**
 
 see in Casey - Design Your Content (Specify Content Structure and Requirements) [note: focus = web content]
 
