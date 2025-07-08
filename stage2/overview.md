@@ -17,7 +17,7 @@ Listed [resources](resources.md) focus on content strategy definitions and descr
 ## Activities
 Because several content strategy books include well-developed activities that support the development of a content strategy, we encourage instructors to integrate those activities into courses and curricular units focused on content strategy. 
 
-The Content Strategy Activities document includes descriptions of activities discussed in those books and advice on how the activities might be modified for technical content projects feasible to complete in an academic term. Our focus here is on activities that support moving from an unstructured to structured "technical" content workflow. We describe the following activities and point instructors to how-to chapters in content strategy books as well as articles that include useful guidance.
+The [Content Strategy Activities](contentstrategyactivities.md) document includes descriptions of activities discussed in those books and advice on how the activities might be modified for technical content projects feasible to complete in an academic term. Our focus here is on activities that support moving from an unstructured to structured "technical" content workflow. We describe the following activities and point instructors to how-to chapters in content strategy books as well as articles that include useful guidance.
 
 * Conducting audience and stakeholder analyses
 * Conducting a content audit
