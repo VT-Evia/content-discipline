@@ -5,14 +5,21 @@ This stage introduces students to the content life cycle and to the disciplinary
 
 ## Learning Objectives
 Through readings, discussions, and activities, instructors introducing students to the disciplinary area of content strategy might identify the following learning objectives for students:
+
 * become familiar with the content life cycle and the activities associated with the *Analyze* quandrant
 * practice conducting audience analysis (emphasizing multiple layers of diversity in audiences), identifying content use and needs patterns, assessing organizational goals and capabilities (including budget and human resources available), conducting a content audit, and creating a content strategy plan
 * become familiar with tools used in developing a content strategy, including project management and data analysis tools, and in implementing a content strategy, including editing app and build system options, content management system options, and publishing processor options.
-* understand how generative AI tools are used in the content life cycle, including as role-playing tools when conducting audience analysis (students can use an AI model as a user persona
+* understand how generative AI tools are used in the content life cycle, including as role-playing tools when conducting audience analysis (students can use an AI model as a user persona)
 
 ## Resources
-List [resources](resources.md) focus on content strategy definitions and descriptions, with three books additionally offering detailed activities and templates for planning and conducting a content strategy. 
+Listed [resources](resources.md) focus on content strategy definitions and descriptions, with three books additionally offering detailed activities and templates for planning and conducting a content strategy. 
 
 ## Activities
-point folks to the activities and templates in the three books... and to Tatiana's content audit activity
+Because several content strategy books include well-developed activities that support the development of a content strategy, we encourage instructors to integrate those activities into courses and curricular units focused on content strategy. What follows are descriptions of activities discussed in those books and advice on how the activities might be modified for technical content projects feasible to complete in an academic term. Our focus here is on activities that support moving from an unstructured to structured "technical" content workflow.
+
 * Contrasting the content life cycle with the rhetorical canons
+* Conducting an audience analysis
+* Identifying content use and needs patterns, content types and channels
+* Conducting a content audit
+* Creating a content model
+* Developing a content strategy plan
