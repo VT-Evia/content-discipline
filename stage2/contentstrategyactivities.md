@@ -33,14 +33,32 @@ Analyzing stakeholders who interact with content—and who oversee product devel
 
 Say something about how to use Casey’s book… 
 
+see in Casey - Get Stakeholders on Board
+& Dig in and Get the Dirt (Understand Your Business Environment & Learn About Your Audience and Users) [good stuff on interviewing stakeholders]
+
 #### Conducting a Content Audit
 
 descriptive stuff...
+
+see in Casey - Identify Problems and Opportunities
+& Content Strategy Tool 1.1: Audit Planning Tips and Templates
+& Content Strategy Tool 1.2: A Super Simple User Test
+
+see in Casey - Dig in and Get the Dirt (Get Familiar with Your Content)
 
 #### Conducting a Gap Analysis
 
 descriptive stuff...
 
+see in Casey - Dig in and Get the Dirt (Evaluate Your Processes)
+
 #### Developing a Content Strategy Plan
 
 descriptive stuff...
+
+see in Casey - Articulate Your Strategy
+see in Casey - Convince Leaders and Get the Resources
+
+include in this plan specifications for content structure and requirements (i.e., a content model?)
+
+see in Casey - Design Your Content (Specify Content Structure and Requirements) [note: focus = web content]
