@@ -16,7 +16,8 @@
 ### Journals - Special Issues
 * Bailie, R. (Ed.). (2019). Content strategy. [Special issue]. *Technical Communication, 66*(2).
 * Batova, T., & Andersen, R. (Eds.). (2016). Content strategy--A unifying vision [Special issue]. *IEEE Transactions on Professional Communication, 59*(1).
-* Getto G., & Flanagan, S. (Eds.). (2024). The how-to of content strategy: Teaching, training, and application [Special issue]. *Technical Communication, 71*(3). 
+* Getto G., & Flanagan, S. (Eds.). (2024). The how-to of content strategy: Teaching, training, and application [Special issue]. *Technical Communication, 71*(3).
+* Getto, G., Flanagan, S., & Labriola, J. (Eds.). (2023). The people, practices, and technologies central to content strategy [Special issue]. *Technical Communication, 53*(4).
 
 #### Books
 * Bailie, R., & Urbina, N. (2013). *Content strategy: Connecting the dots between business, brand, and benefits*. Laguna Hills, CA: XML Press.
