@@ -9,9 +9,14 @@
 * [How Artificial Intelligence is Impacting Content Strategy](https://www.brighttalk.com/webcast/9273/633289?q=%22Coffee%20and%20Content%22) [webinar] hosted by Patrick Bosek and Scott Abel and featuring Michael Andrews, May 15, 2025
 
 #### Articles and Chapters
-* Bailie, R. (2019). Content strategy. *Technical Communication*, 66(2), 121–124.
+* Getto, G. (2018). A prototype theory for content strategy education: Training content strategists within the academy. In *Proceedings of the 36th ACM International Conference on the Design of Communication* (pp. 1–6).
 * Halvorson, K. (2018). Ten years later: The discipline of content strategy from https://www.braintraffic.com/blog/ten-years-later-the-discipline-of-content-strategy.
 * Walker, C.J. (2023, June 24). A brief history of content strategy from https://firehead.net/2013/06/a-brief-history-of-content-strategy/
+
+### Journals - Special Issues
+* Bailie, R. (Ed.). (2019). Content strategy. [Special issue]. *Technical Communication, 66*(2).
+* Batova, T., & Andersen, R. (Eds.). (2016). Content strategy--A unifying vision [Special issue]. *IEEE Transactions on Professional Communication, 59*(1).
+* Getto G., & Flanagan, S. (Eds.). (2024). The how-to of content strategy: Teaching, training, and application [Special issue]. *Technical Communication, 71*(3). 
 
 #### Books
 * Bailie, R., & Urbina, N. (2013). *Content strategy: Connecting the dots between business, brand, and benefits*. Laguna Hills, CA: XML Press.
