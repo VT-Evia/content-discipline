@@ -1,14 +1,16 @@
 # Content Strategy Activities
 
-If teaching content strategy as a class or as a curricular unit, we recommend a project-based approach. 
+Whether teaching content strategy as a class or as a curricular unit, we recommend a project-based approach. 
 
-If teaching a content strategy class, instructors might partner with local organizations or campus departments or centers that are interested in undergoing a digital content transformation—that is, building a strategic framework to support structured authoring workflows. Student teams could then work with these organizations, completing the various activities necessary to develop a content strategy plan. In doing so, students would participate in the activities comprising the Analyze quadrant of the content life cycle. If partnering with non-profit organizations, instructors might ask students to read “Helping Content Strategy: What Technical Communicators Can Do for Non-Profits” by Guiseppe Getto and Suzan Flanagan (published in *Technical Communication, 69*(1), 2022). The authors offer guidance for helping local organizations improve their content strategy processes.
+If teaching a content strategy class, instructors might partner with local organizations or campus departments or centers that are interested in undergoing a digital content transformation—that is, building a strategic framework to support structured authoring workflows. Student teams could then work with these organizations, completing the various activities necessary to develop a content strategy plan. In doing so, students would participate in the activities comprising the Analyze quadrant of the content life cycle. 
+
+If partnering with non-profit organizations, instructors might ask students to read “Helping Content Strategy: What Technical Communicators Can Do for Non-Profits” by Guiseppe Getto and Suzan Flanagan (published in *Technical Communication, 69*(1), 2022). The authors offer guidance for helping local organizations improve their content strategy processes.
 
 If teaching a course that includes a curricular unit on content strategy, we recommend tying that unit to a larger documentation project that allows students to work through, on a small scale, the content life cycle and the staged approach to learning about our kind of content. Students might document a product or product suite that has yet to be documented or that has existing, unstructured documentation. The goal should be for students to develop a content strategy for creating and maintaining structured documentation rendered in at least two formats (e.g., pdf, html, e-pub). Students would then implement that strategy as they move to to the collect, manage, and maintain quadrants of the content life cycle and to stage 3 of our stages approach to learning about our kind of content. 
 
 We recommend that students work through the following activities in developing a content strategy plan.
 
-**** Conducting Audience and Stakeholder Analyses
+#### Conducting Audience and Stakeholder Analyses
 
 Although audience analysis and stakeholder analysis are two different activities, we include them together because they require identifying actual people who either interact with content as users or interact with content as business stakeholders. 
 
@@ -31,14 +33,14 @@ Analyzing stakeholders who interact with content—and who oversee product devel
 
 Say something about how to use Casey’s book… 
 
-**** Conducting a Content Audit
+#### Conducting a Content Audit
 
 descriptive stuff...
 
-**** Conducting a Gap Analysis
+#### Conducting a Gap Analysis
 
 descriptive stuff...
 
-**** Developing a Content Strategy Plan
+#### Developing a Content Strategy Plan
 
 descriptive stuff...
