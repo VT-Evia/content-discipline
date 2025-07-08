@@ -18,7 +18,7 @@ Listed [resources](resources.md) focus on content strategy definitions and descr
 Because several content strategy books include well-developed activities that support the development of a content strategy, we encourage instructors to integrate those activities into courses and curricular units focused on content strategy. What follows are descriptions of activities discussed in those books and advice on how the activities might be modified for technical content projects feasible to complete in an academic term. Our focus here is on activities that support moving from an unstructured to structured "technical" content workflow.
 
 * Contrasting the content life cycle with the rhetorical canons
-* Conducting an audience analysis
+* Conducting audience and stakeholder analyses
 * Identifying content use and needs patterns, content types and channels
 * Conducting a content audit
 * Creating a content model
