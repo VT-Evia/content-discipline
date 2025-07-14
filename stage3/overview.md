@@ -6,6 +6,11 @@ This is the stage that tends to keep some colleagues in academia from incorporat
 ## Learning Objectives
 Through readings, discussions, and activities, instructors introducing students to the discipline of content and focusing on content creation and management might identify the following learning objectives for students:
 
+- differentiate between content that is presentation-bound and content that is structured for reuse and multichannel delivery, recognizing the limitations of word processors, web builders, and web content management platforms in the context of technical content development
+- demonstrate foundational proficiency in markup languages and version control tools, particularly DITA XML, Markdown, and GitHub, to support structured content development and single-sourcing workflows
+- evaluate and select appropriate tools and authoring strategies for managing technical content assets, distinguishing between CMS-based and Git-based approaches in relation to project goals and audience needs
+- explain the principles and benefits of single-sourcing and content as computable data, including how these approaches contribute to content reuse, personalization, automation, and the reduction of errors in content and AI systems.
+
 ## Resources
 
 ## Activities
