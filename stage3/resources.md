@@ -18,10 +18,9 @@
 - Bailie, R., & Evia, C. (2024). Operationalizing content creation. In C. Evia (Ed.),*Content operations from start to scale: Perspectives from industry experts* (pp. 43–74). Blacksburg: Virginia Tech Publishing.
 
 ### Videos and websites
-- Markdown Tutorial,
-- Learning DITA,
-- The YouTube playlist “GitHub for Beginners,” from the official GitHub account. Technical content students can skip the “Beginner Git Com‑ mand” video. Kedasha Kerr’s explanations are truly appropriate for
-beginners.
+- [Markdown Tutorial](https://www.markdowntutorial.com/),
+- [Learning DITA](https://learningdita.com/),
+- The YouTube playlist [“GitHub for Beginners](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f),” from the official GitHub account. Technical content students can skip the “Beginner Git Commands” video. The playlist has recently added videos related to GitHub Copilot that can be useful for advanced content designers.
 
 ### Tools
 - Oxygen
