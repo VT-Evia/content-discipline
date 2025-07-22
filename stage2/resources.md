@@ -13,7 +13,7 @@
 * Halvorson, K. (2018). Ten years later: The discipline of content strategy from https://www.braintraffic.com/blog/ten-years-later-the-discipline-of-content-strategy.
 * Walker, C.J. (2023, June 24). A brief history of content strategy from https://firehead.net/2013/06/a-brief-history-of-content-strategy/
 
-### Journals - Special Issues
+#### Journals - Special Issues
 * Bailie, R. (Ed.). (2019). Content strategy. [Special issue]. *Technical Communication, 66*(2).
 * Batova, T., & Andersen, R. (Eds.). (2016). Content strategy--A unifying vision [Special issue]. *IEEE Transactions on Professional Communication, 59*(1).
 * Getto G., & Flanagan, S. (Eds.). (2024). The how-to of content strategy: Teaching, training, and application [Special issue]. *Technical Communication, 71*(3).
