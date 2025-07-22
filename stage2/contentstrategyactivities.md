@@ -36,10 +36,9 @@ Rahel Bailie (2019) also offers guidance on the kinds of questions to ask when i
 * Retain brand trust
 * Increase operational efficiency
 
-* "Bringing Clarity to Content Strategy" in *Technical Communication* (2019), 66(2), by Rahel Bailie, pp. 121-124.
-
 Analyzing stakeholders who interact with content — and who oversee product development or control budgets and resources — is of critical importance. “By interviewing a solid cross-section of stakeholders across the organization,” suggest O’Keefe, Pringle, and Swallow, “the content strategist can identify and prioritize the drivers for change, requirements, and success metrics for the content strategy” (p. 130). 
 
+* "Bringing Clarity to Content Strategy" in *Technical Communication* (2019), 66(2), by Rahel Bailie, pp. 121-124.
 * "Understanding Content Strategy as a Specialized Form of Management Consulting " in *Technical Communication* (2019), 66(2), by Sarah O'Keefe, Alan Pringle, and Bill Swallow, pp. 127-136.
 
 Meghan Casey also offers useful advice for gaining buy-in from stakeholders in her chapter, "Get Stakeholders On Board" (Chapter 3). She describes different stakeholder roles and types and offers an example matrix that students can use to list stakeholders that should be have input in the development of a content strategy. She then reviews different methods for involving stakeholders, from interviews to workshops, anad offers a template for creating a stakeholder communications plan. In the chapter, "Understand Your Business Environment," Casey also shares guidance for conducting stakeholder interviews. We recommend assigning students the "Get Stakeholders On Board" chapter and asking them to follow the guidance on how to identify and involve stakeholders. 
