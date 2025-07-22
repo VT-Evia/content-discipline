@@ -51,16 +51,24 @@ Further, we recommend assigning students the chapters "Understand Your Business 
 
 #### Conducting a Content Audit
 
-descriptive stuff...
+The next stage in developing a content strategy is to conduct a content audit, which is "the processes of assessing and evaluating content for the purpose of improving it"
+
+Guidance is not specific to an audit of unstructured content for the purpose of adopting a structured authoring workflow
 
 see in Getto, Labriola, and Ruszkiewicz - Chapter 4: Identifying Content Types and Channels
 see in Getto, Labriola, and Ruszkiewicz - Chapter 5: Content Auditing
+
+* “Identifying Content Types and Channels” (Chapter 4) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 57-70.
+* "Content Auditing” (Chapter 5) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 71-103..
 
 see in Casey - Identify Problems and Opportunities
 & Content Strategy Tool 1.1: Audit Planning Tips and Templates
 & Content Strategy Tool 1.2: A Super Simple User Test
 
 see in Casey - Dig in and Get the Dirt (Get Familiar with Your Content)
+
+* "Identify Problems and Opportunities" (Chapter 1) in *The Content Strategy Toolkit" by Meghan Casey, pp. 5-16.
+* "Get Familiar with Your Content" (Chapter 8) in *The Content Strategy Toolkit" by Meghan Casey, pp. 101-118.
 
 #### Conducting a Gap Analysis
 
