@@ -51,24 +51,38 @@ Further, we recommend assigning students the chapters "Understand Your Business 
 
 #### Conducting a Content Audit
 
-The next stage in developing a content strategy is to conduct a content audit, which is "the processes of assessing and evaluating content for the purpose of improving it"
+The next stage in developing a content strategy is to conduct a content audit, which is the process of taking inventory of all existing content and then assessing the quality of that content. 
 
-Guidance is not specific to an audit of unstructured content for the purpose of adopting a structured authoring workflow
+The goals and scope of a content audit vary and are largely defined by the business and stakeholder needs identified in the previous stage of developing a content strategy. Metrics for measuring quality will also vary, but multiple resources offer excellent suggestions for metrics that can be tailored for most projects: 
 
-see in Getto, Labriola, and Ruszkiewicz - Chapter 4: Identifying Content Types and Channels
-see in Getto, Labriola, and Ruszkiewicz - Chapter 5: Content Auditing
+*“A Hierarchy of Content Needs” (2014) by Sarah O’Keefe, from https://www.scriptorium.com/2014/03/a-hierarchy-of-content-needs/
+
+*“Performing a Content Audit” (Chapter 10) in *Managing Enterprise Content: A Unified Content Strategy* (2012) by Ann Rockley and Alan Cooper, pp. 101-118.
+
+*”Developing a Rubric” and “Assessing Content” (sections in Chapter 5) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 83-93.
+
+In addition to taking inventory of content and assessing content quality, a key goal of the content audit is to identify, as suggested by Rockley and Cooper (2012), the following: who needs and uses particular content, how well existing content meets user needs, and what processes are in place for creating, managing, and delivering content (p. 10). 
+
+If you are teaching a class on content strategy and partnering with local organizations or campus departments or centers, student projects might focus on auditing website content alone or on an array of content types distributed across different delivery channels. 
+
+For content strategy projects focused on website content, we recommend the content audit guidance offered by Meghan Casey (2023) in her chapters 1 and 8: 
+
+* "Identify Problems and Opportunities" (Chapter 1) in *The Content Strategy Toolkit* (2023) by Meghan Casey, pp. 5-16.
+* "Get Familiar with Your Content" (Chapter 8) in *The Content Strategy Toolkit* (2023) by Meghan Casey, pp. 101-118.
+
+In chapter 1, Casey also offers two tools for conducting a content audit that students will likely find useful: (1) Content Strategy Tool 1.1: Audit Planning Tips and Templates and (2) Content Strategy Tool 1.2: A Super Simple User Test.
+
+For projects focused on developing a content strategy that defines a strategic framework for supporting structured authoring workflows (that is, for moving from unstructured to structured content)—likely for projects focused on documentation, but marketing and training content may also be included—, we recommend the content audit guidance offered by Guiseppe Getto, Jack Labriola, and Sheryl Ruszkiewicz (2023) and by Ann Rockley and Alan Cooper (2012).
 
 * “Identifying Content Types and Channels” (Chapter 4) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 57-70.
-* "Content Auditing” (Chapter 5) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 71-103..
+* "Content Auditing” (Chapter 5) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 71-103.
+*“Performing a Content Audit” (Chapter 10) in *Managing Enterprise Content: A Unified Content Strategy* (2012) by Ann Rockley and Alan Cooper, pp. 101-118.
 
-see in Casey - Identify Problems and Opportunities
-& Content Strategy Tool 1.1: Audit Planning Tips and Templates
-& Content Strategy Tool 1.2: A Super Simple User Test
+In addition to reviewing the purpose of a content audit and parts of an audit, Getto, Labriola, and Ruszkiewics offer excellent guidance on how to approach a content inventory, and they include a free downloadable template for documenting content sources, types, channels, and publication dates and rating content based on defined assessment criteria. They provide advice, as well, on defining assessment criteria and creating findings from an audit. 
 
-see in Casey - Dig in and Get the Dirt (Get Familiar with Your Content)
+For more specific guidance on conducting a content audit for an organization that wants to adopt structured authoring workflows (or, in the case of small class projects, that wants to document a product using a structured authoring approach), we recommend assigning the chapter “Performing a Content Audit” by Ann Rockley and Alan Cooper. 
 
-* "Identify Problems and Opportunities" (Chapter 1) in *The Content Strategy Toolkit" by Meghan Casey, pp. 5-16.
-* "Get Familiar with Your Content" (Chapter 8) in *The Content Strategy Toolkit" by Meghan Casey, pp. 101-118.
+The authors talk specifically about strategies for assessing opportunities for content reuse and for analyzing existing content for reuse. When conducting an audit, they write, “[y]ou look for similar and identical information, as well as for information that could be similar or identical, but is currently distinct. One you see how your information is being used and reused, you can make decisions about how you might unify it” (p. 101). Students will also find helpful example tables that they can adopt for conducting both a top-level analysis and an in-depth analysis of information products and other materials.
 
 #### Conducting a Gap Analysis
 
