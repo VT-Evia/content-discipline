@@ -55,9 +55,9 @@ The next stage in developing a content strategy is to conduct a content audit, w
 
 The goals and scope of a content audit vary and are largely defined by the business and stakeholder needs identified in the previous stage of developing a content strategy. Metrics for measuring quality will also vary, but multiple resources offer excellent suggestions for metrics that can be tailored for most projects: 
 
-*“A Hierarchy of Content Needs” (2014) by Sarah O’Keefe, from https://www.scriptorium.com/2014/03/a-hierarchy-of-content-needs/
+* “A Hierarchy of Content Needs” (2014) by Sarah O’Keefe, from https://www.scriptorium.com/2014/03/a-hierarchy-of-content-needs/
 
-*“Performing a Content Audit” (Chapter 10) in *Managing Enterprise Content: A Unified Content Strategy* (2012) by Ann Rockley and Alan Cooper, pp. 101-118.
+* “Performing a Content Audit” (Chapter 10) in *Managing Enterprise Content: A Unified Content Strategy* (2012) by Ann Rockley and Alan Cooper, pp. 101-118.
 
 *”Developing a Rubric” and “Assessing Content” (sections in Chapter 5) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 83-93.
 
