@@ -86,9 +86,36 @@ The authors talk specifically about strategies for assessing opportunities for c
 
 #### Conducting a Gap Analysis
 
-descriptive stuff...
+A gap analysis, suggests Sarah O’Keefe, Alan Pringle, and Bill Swallow, assesses the distance between the current quality of the content and the desired quality of the content” (p. 131). It further assesses gaps in needed roles and associated responsibilities, processes, and tools. 
 
-see in Casey - Dig in and Get the Dirt (Evaluate Your Processes)
+Students conducting a gap analysis should draw on results of their audience and stakeholder analysis and content audit to determine needs for content, roles, processes, and tools. 
+
+The results of a content strategy gap analysis may include the following:
+
+* Roles and responsibilities
+* Content quality gaps
+* Content architecture and storage format
+* Content management
+* Content governance gaps
+* Content delivery gaps
+
+Refer to the section “Content Strategy Gap Analysis” for a detailed breakdown of what to examine in this activity. 
+
+* ”Content Strategy Gap Analysis” (section in the article, "Understanding Content Strategy as a Specialized Form of Management Consulting") in *Technical Communication* (2019), 66(2), by Sarah O'Keefe, Alan Pringle, and Bill Swallow, pp. 131-132
+
+Notably, some experts, such as Getto, Labriola, and Ruszkiewicz (2023), include the gap analysis as part of the content audit – the final activity necessary for writing the content audit report. Either way, this activity is necessary for determining the plan of action that will become the content strategy.
+
+Students developing a content strategy for an organization may find Meghan Casey’s guidance on evaluating processes helpful. Casey offers guidance on identifying areas of opportunity or improvement, focusing specifically on people, processes, governance, and collaboration.
+
+* "Evaluate Your Processes" (Chapter 9) in *The Content Strategy Toolkit* by Meghan Casey, pp. 119-131.
+
+Students developing a content strategy for a particular documentation projects, given their small scope compared to developing a strategy for an organization, will likely focus their gap analysis on user and stakeholder needs and content needs. Ideally, they would also attend to processes and governance.
+
+We also recommend assigning Rahel Bailie’s article, “Bringing Clarity to Content Strategy." A key question guiding a gap analysis, suggests Bailie, is “What are the operational needs”? She asks, “What systems are in place to facilitate the production, management, delivery, and governance of content” Whatever system is being used, does it help or hinder professionals who produce the content? Does the organization understand enough about content technologies to be able to even recognize what they need?” (p. 124).  
+
+Another key question for a gap analysis includes “What are the technology needs?” Bailie asks, “What technologies are in place, and what new technologies are needed to support the efforts described?” (p. 124). 
+
+* "Bringing Clarity to Content Strategy" in *Technical Communication* (2019), 66(2), by Rahel Bailie, pp. 121-124.
 
 #### Developing a Content Strategy Plan
 
