@@ -51,7 +51,7 @@ Further, we recommend assigning students the chapters "Understand Your Business 
 
 #### Conducting a Content Audit
 
-The next stage in developing a content strategy is to conduct a content audit, which is the process of taking inventory of all existing content and then assessing the quality of that content. 
+The next activity in developing a content strategy is to conduct a content audit, which is the process of taking inventory of all existing content and then assessing the quality of that content. 
 
 The goals and scope of a content audit vary and are largely defined by the business and stakeholder needs identified in the previous stage of developing a content strategy. Metrics for measuring quality will also vary, but multiple resources offer excellent suggestions for metrics that can be tailored for most projects: 
 
@@ -119,6 +119,27 @@ Another key question for a gap analysis includes “What are the technology need
 
 #### Creating a Content Model
 
+The next activity in developing a content strategy is content modeling, “the process of creating structures and frameworks that content must adhere to” (Getto, Labriola, & Ruszkiewicz, 2023, p. 104). Content modeling is an important step in defining the structure of different content types (e.g., tasks, definitions, concepts, troubleshooting information); for technical content, this process usually requires following structures pre-defined in a content standard such as DITA. Content modeling ensures that content of the same type follows a consistent structure and includes the same kind of information (or, in DITA, the same required elements). It ensures that content is both reusable and adaptable, and it offers important descriptive information (metadata) about each content type—its purposes, its uses, its audiences, its associated products, and more. 
+
+Students modeling website, blog post, and social media content for an organization will find the guidance offered by Getto, Labriola, and Ruszkiewicz (2023) helpful. Their chapter on “Content Modeling” reviews strategies for modeling blog posts, website content, and social media posts—content that should follow consistent structures but that may not ultimately exist in structured authoring workflows (though website content often includes support and marketing content that can benefit from integration into structured authoring workflows, allowing it to be easily reused and repurposed for different genres and delivery channels). 
+
+We recommend supplementing this guidance with that of Meghan Casey in her chapter, "Specifying Content Structure and Requirements.” Casey offers a robust review of the importance of structuring content to create repeatable content patterns across similar content types (such as a recipe). And she offers a list of the kinds of information that should be included in a content model. Further, she offers helpful examples plus free content modeling tutorials for content professionals (Content Strategy Tool 15.1 and 15.2).
+
+* "Specifying Content Structure and Requirements" (Chapter 15) in *The Content Strategy Toolkit* by Meghan Casey, pp. 235-251.
+* "Content Modeling” (Chapter 5) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 71-103.
+
+Students developing content strategies for documenting a product or suite of products will also find useful guidance in Getto, Labriola, and Ruszkiewicz but this time in the “Article in a Structured Database” section in their chapter “Content Modeling.” The section reviews strategies for modeling content types, or modular information units, that will exist in structured authoring workflows. 
+
+Perhaps most helpful for modeling this type of content—that is, content intended to be modular, format-free, well-structured, and semantically enhanced for the purpose of being human and machine readable—is the guidance offered by Rockley and Cooper in their chapter, “Content modeling: Adaptive content design.” The authors describe this type of content as “format-free, device-independent, scalable, and filterable” and “transformable for display in different environments and on different devices in an automated or dynamic fashion” (p. 134). This is the type of content on which *Technical Communication and the Discipline of Content* focuses. 
+
+In their chapter, Rockley and Cooper emphasize the importance of two types of modeling: (1) modeling an information product and (2) modeling the individual information units—or modules—comprising that product. They offer examples of both types of content models, which should help students understand how they might create their own models. 
+
+* “Content Modeling: Adaptive Content Design” (Chapter 12) in *Managing Enterprise Content: A Unified Content Strategy* (2012) by Ann Rockley and Alan Cooper, pp. 133-150. 
+
+The audience for content models is often the information technologists or content engineers who oversee the technical implementation of the content strategy plan and requirements as defined in content models. But for class projects that ask students to engage with the staged approach to structured authoring described in *Technical Communication and the Discipline of Content,” students will need to implement their own content models and content strategy plans (that is, unless they are working with an organization that has asked them to create a content strategy plan and no more). 
+
+Students in most cases will need to be their own content engineers, using their content models as guidelines for authoring consistent content, reusing that content where appropriate, and adding metadata to content to assist users, authors, and machines with search and retrieval. Thus, in addition to assigning chapter 12 in Rockley and Cooper, we recommend assigning chapter 13, “Reuse strategy,” and chapter 15, “Designing metadata.” Identifying reuse and metadata needs for information units in a content model can be immensely helpful in the implementation of a content strategy. 
+
 #### Developing a Content Strategy Plan
 
 descriptive stuff...
@@ -127,10 +148,4 @@ see in Casey - Articulate Your Strategy
 see in Casey - Convince Leaders and Get the Resources
 
 see in Getto, Labriola, and Ruszkiewicz - Assembling a Content Strategy Plan
-
-**???include in this plan specifications for content structure and requirements (i.e., a content model?) OR include a separate activity focused on Creating a Content Model?**
-
-see in Casey - Design Your Content (Specify Content Structure and Requirements) [note: focus = web content]
-
-see in Getto, Labriola, and Ruszkiewicz - Chapter 6: Content Modeling
 
