@@ -117,7 +117,7 @@ Another key question for a gap analysis includes “What are the technology need
 
 * "Bringing Clarity to Content Strategy" in *Technical Communication* (2019), 66(2), by Rahel Bailie, pp. 121-124.
 
-#### Developing Content Models
+#### Creating a Content Model
 
 #### Developing a Content Strategy Plan
 
