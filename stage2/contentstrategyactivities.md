@@ -59,7 +59,7 @@ The goals and scope of a content audit vary and are largely defined by the busin
 
 * “Performing a Content Audit” (Chapter 10) in *Managing Enterprise Content: A Unified Content Strategy* (2012) by Ann Rockley and Alan Cooper, pp. 101-118.
 
-*”Developing a Rubric” and “Assessing Content” (sections in Chapter 5) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 83-93.
+* ”Developing a Rubric” and “Assessing Content” (sections in Chapter 5) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 83-93.
 
 In addition to taking inventory of content and assessing content quality, a key goal of the content audit is to identify, as suggested by Rockley and Cooper (2012), the following: who needs and uses particular content, how well existing content meets user needs, and what processes are in place for creating, managing, and delivering content (p. 10). 
 
@@ -71,6 +71,11 @@ For content strategy projects focused on website content, we recommend the conte
 * "Get Familiar with Your Content" (Chapter 8) in *The Content Strategy Toolkit* (2023) by Meghan Casey, pp. 101-118.
 
 In chapter 1, Casey also offers two tools for conducting a content audit that students will likely find useful: (1) Content Strategy Tool 1.1: Audit Planning Tips and Templates and (2) Content Strategy Tool 1.2: A Super Simple User Test.
+
+Anna Kaley of the Nielsen Norman Group also offers excellent advice in the following article and video
+
+* [Content Inventory and Auditing 101](https://www.nngroup.com/articles/content-audits/) (Sept. 27, 2020)
+* [How To: Content Inventory and Audit](https://www.nngroup.com/videos/content-inventory-audit/) [Video]
 
 For projects focused on developing a content strategy that defines a strategic framework for supporting structured authoring workflows (that is, for moving from unstructured to structured content)—likely for projects focused on documentation, but marketing and training content may also be included—, we recommend the content audit guidance offered by Guiseppe Getto, Jack Labriola, and Sheryl Ruszkiewicz (2023) and by Ann Rockley and Alan Cooper (2012).
 
@@ -142,10 +147,18 @@ Students in most cases will need to be their own content engineers, using their 
 
 #### Developing a Content Strategy Plan
 
-descriptive stuff...
+The final activity in developing a content strategy is to do just that – create the plan. The plan “includes a written strategy for all of the activities that an organization will engage in to carry out their content strategy” (Getto, Labriola, and Ruszkiewicz, 2023, p. 120). It may include, suggests O’Keefe, Pringle, and Swallow (2019), recommendations for the content lifecycle, content governance, content velocity, content integration, content architecture, content delivery, localization, tools and technologies, a business case, and a budget and roadmap (pp. 132-133). 
 
-see in Casey - Articulate Your Strategy
-see in Casey - Convince Leaders and Get the Resources
+On a smaller scale, and more likely for student projects focused on an organization’s corpus of content or on a particular product or product suite in need of documentation, a plan would ideally include a write-up of the findings from the audience and stakeholder analyses (including business and user goals for content), the content audit, and the gap analysis, and it should include a detailed plan of action for the content life cycle. The detailed plan might include, among other categories, content goals, audiences for content, delivery channels for content, content model(s), tool and technology options for implementing the channels and models, and articulation of a content workflow and governance plan. 
 
-see in Getto, Labriola, and Ruszkiewicz - Assembling a Content Strategy Plan
+Resources that describe the components of a content strategy plan are plentiful. We recommend the following resources: 
 
+* "Assembling a Content Strategy Plan” (Chapter 7) in *Content Strategy: A How-to Guide* (2023) by Guiseppe Getto, Jack Labriola, and S. Ruszkiewicz, pp. 71-103. 
+
+NOTE: The authors offer a free downloadable Content Strategy Plan template. 
+
+* ”Build Out Your Content Playbook” (Chapter 17) in *The Content Strategy Toolkit" by Meghan Casey, pp. 275-294.
+
+NOTE: Casey offers a collection of templates in the form of Google Docs at www.peachpit.com/register (Content Strategy Tool 17.1)
+
+* [Content Strategy 101](https://www.nngroup.com/articles/content-strategy/) (Nov. 13, 2022) by Anna Kaley, published by the Nielsen Norman Group
