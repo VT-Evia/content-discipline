@@ -6,6 +6,7 @@
 * [The Content Strategy Podcast](https://www.braintraffic.com/podcast) [podcast] hosted by Kristina Halvorson
 * [Content Matters](https://creators.spotify.com/pod/profile/content-matters/) [podcast] sponsored by Ingeniux
 * [Content Operations](https://www.scriptorium.com/category/podcast/) [podcast] hosted by Scriptorium
+* [Content Strategy Articles & Videos](https://www.nngroup.com/topic/content-strategy/) [articles & videos], published on the Nielsen Norman Group website
 * [How Artificial Intelligence is Impacting Content Strategy](https://www.brighttalk.com/webcast/9273/633289?q=%22Coffee%20and%20Content%22) [webinar] hosted by Patrick Bosek and Scott Abel and featuring Michael Andrews, May 15, 2025
 
 #### Articles and Chapters
@@ -16,6 +17,7 @@
 #### Journals - Special Issues
 * Bailie, R. (Ed.). (2019). Content strategy. [Special issue]. *Technical Communication, 66*(2).
 * Batova, T., & Andersen, R. (Eds.). (2016). Content strategy--A unifying vision [Special issue]. *IEEE Transactions on Professional Communication, 59*(1).
+* Kaley, A. (Aug., 23, 2024). [Content strategy: Study guide](https://www.nngroup.com/articles/content-strategy-study-guide/). Nielsen Norman Group. 
 * Getto G., & Flanagan, S. (Eds.). (2024). The how-to of content strategy: Teaching, training, and application [Special issue]. *Technical Communication, 71*(3).
 * Getto, G., Flanagan, S., & Labriola, J. (Eds.). (2023). The people, practices, and technologies central to content strategy [Special issue]. *Technical Communication, 53*(4).
 
