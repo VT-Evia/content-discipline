@@ -21,7 +21,7 @@ We recommend assigning the following resources focused on structured authoring a
 
 ## Optional Slide Deck for Lecture
 
-* Overview of Topic-Based, Structured Content + DITA (pdf)
+* [Overview of Topic-Based, Structured Content + DITA](Overview-TopicBasedStructuredContent.pdf) (pdf)
 
 ## Activity Description
 
@@ -34,9 +34,9 @@ The activity asks students to apply their understanding of information typing an
 Suggested Example Documents to Examine (feel free to choose different documents)
 
 * Recipe – [Crispy Vegan Tofu Schnitzel](https://healthfulblondie.com/wprm_print/39547)
-* Installation Guide – Kohler Lighting Fixture (pdf)
-* Installation Guide – Kohler Kitchen Faucet (pdf)
-* Conference Proceeding – ”What Content Strategists Do and Earn” (pdf)
+* Installation Guide – [Kohler Lighting Fixture](Kohler-LightingFixture-NOTstructured.pdf) (pdf)
+* Installation Guide – [Kohler Kitchen Faucet](Kohler-KitchenFaucet-Installation.pdf) (pdf)
+* Conference Proceeding – [”What Content Strategists Do and Earn”](What-CSs-DoandEarn-SIGDOC-2022.pdf) (pdf)
 * A page from a department or campus center website, such as one focused on an internship program, a study abroad program, or writing center services (ideally the page would include different types of information). 
 
 Instructors might begin the activity by facilitating a large-group discussion of an example document. The Kohler kitchen faucet installation guide is a good one to ask students to examine for a few minutes with these questions in mind: What types of information can you identify? Could these information types be classified as concept, task, and reference topics? Which ones? After discussing the guide as a large group, instructors might show students the [Kohler website](www.kohler.com) and identify where the installation guide (and other guides) exist. 
