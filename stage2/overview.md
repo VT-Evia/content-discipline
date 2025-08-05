@@ -22,7 +22,7 @@ The [Content Strategy Activities](contentstrategyactivities.md) document include
 * Conducting audience and stakeholder analyses
 * Conducting a content audit
 * Conducting a gap analysis
-* Creating a content model ???
+* Creating a content model
 * Developing a content strategy plan
 
 Another activity we recommend assigning, perhaps before diving into the process of developing a content strategy, is the following: 
