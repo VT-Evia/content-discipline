@@ -14,7 +14,7 @@ And you will need to use Microsoft Word and open the Unformatted Memo Report.
 
 ## Steps
 
-1. Open the Unformatted Memo Report. Then, activate the paragraph mark symbol ![paragraph mark symbol](paramark.png) accessible in the Home tab in the Paragraph group.
+1. Open the Unformatted Memo Report. Then, activate the paragraph mark symbol ![paragraph mark symbol](parasymbol.png) accessible in the Home tab in the Paragraph group.
 2. Apply the built-in heading styles to each instance of Heading 1 and Heading 2. Then, modify the style specifications for the Heading 1 and Heading 2 tags (choose your own specifications).
 3. Apply the built-in Normal style to all body text in the document. Then, modify the style specifications for the Normal tag (choose your own specifications). In Format > Paragraph, add space after each paragraph (there should be no paragraph markers between paragraphs or between the bulleted list and the paragraph before and after it). You will need to delete the paragraph markers (hard returns) between all paragraphs in the document.
 4. Apply the built-in List Paragraph style to the bulleted list. Then, modify the style specifications for the List Paragraph tag (choose your own specifications). You will need to delete the * symbol from each list entry.
