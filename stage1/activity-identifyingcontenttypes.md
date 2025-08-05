@@ -14,7 +14,7 @@ After completing the readings and the two activities, students will develop a st
 
 We recommend assigning the following resources focused on structured authoring and DITA. 
 
-* Section on "Structured Authoring" in Chapter 3: Andersen, R. & Evia, C. (2026). Changing Technical Communication Roles and Activities. *Technical communication and the discipline of content: Considerations for research, training, and career readiness* (pp. x–y). New York: Routledge.
+* Section on "Structured Authoring" in Chapter 3, "Changing Technical Communication Roles and Activities," in *Technical communication and the discipline of content: Considerations for research, training, and career readiness* (pp. x–y). New York: Routledge, by Andersen, R. & Evia, C. (2026). 
 * [What is Structured Content?](https://www.youtube.com/watch?v=7SWhLVaWVP8&list=PL4ZeW5ujwMiHejcQaJrhxlSCHcRqlTidx&index=3) [video] by Heretto
 * [What is DITA XML?](https://www.youtube.com/watch?v=Y9SzB5KceIQ&list=PL4ZeW5ujwMiHejcQaJrhxlSCHcRqlTidx&index=7) [video] by Heretto
 * What are DITA Topics? by Stan Doherty, ACM SIGDOC Structured Authoring Committee - find article in multiple formats on the [Curriculum Resources](https://acm-sigdoc-structured.org/1-curriculum-resources.html) page of the committee website
@@ -33,7 +33,7 @@ The activity asks students to apply their understanding of information typing an
 
 Suggested Example Documents to Examine (feel free to choose different documents)
 
-* Recipe – [Crispy Vegan Tofu Schnitzel](https://healthfulblondie.com/wprm_print/39547)
+* Recipe – [Crispy Vegan Tofu Schnitzel](https://healthfulblondie.com/wprm_print/39547) (web page)
 * Installation Guide – [Kohler Lighting Fixture](Kohler-LightingFixture-NOTstructured.pdf) (pdf)
 * Installation Guide – [Kohler Kitchen Faucet](Kohler-KitchenFaucet-Installation.pdf) (pdf)
 * Conference Proceeding – [”What Content Strategists Do and Earn”](What-CSs-DoandEarn-SIGDOC-2022.pdf) (pdf)
