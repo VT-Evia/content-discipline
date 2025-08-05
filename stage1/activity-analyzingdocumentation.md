@@ -20,7 +20,7 @@ We recommend assigning the following readings on information mapping and topic-b
 
 ## Optional Slide Deck for Lecture
 
-* [Overview of Topic-Based, Structured Content + DITA](Overview-TopicBasedStructuredContent.pdf)
+* [Overview of Topic-Based, Structured Content + DITA](Overview-TopicBasedStructuredContent.pdf) (pdf)
 
 ## Activity Description
 
