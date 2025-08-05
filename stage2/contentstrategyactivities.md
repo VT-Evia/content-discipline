@@ -16,7 +16,7 @@ We recommend that students work through the following activities in developing a
 * Creating a content model
 * Developing a content strategy plan
 
-#### Conducting Audience and Stakeholder Analyses
+## Conducting Audience and Stakeholder Analyses
 
 Although audience analysis and stakeholder analysis are two different activities, we include them together because they require identifying actual people who either interact with content as users or interact with content as business stakeholders. 
 
@@ -49,7 +49,7 @@ Further, we recommend assigning students the chapters "Understand Your Business 
 * "Understand Your Business Environment" (Chapter 6) in *The Content Strategy Toolkit" by Meghan Casey, pp. 73-86.
 * "Learn about Your Audience and Users" (Chapter 7) in *The Content Strategy Toolkit" by Meghan Casey, pp. 87-100.
 
-#### Conducting a Content Audit
+## Conducting a Content Audit
 
 The next activity in developing a content strategy is to conduct a content audit, which is the process of taking inventory of all existing content and then assessing the quality of that content. 
 
@@ -89,7 +89,7 @@ For more specific guidance on conducting a content audit for an organization tha
 
 The authors talk specifically about strategies for assessing opportunities for content reuse and for analyzing existing content for reuse. When conducting an audit, they write, “[y]ou look for similar and identical information, as well as for information that could be similar or identical, but is currently distinct. One you see how your information is being used and reused, you can make decisions about how you might unify it” (p. 101). Students will also find helpful example tables that they can adopt for conducting both a top-level analysis and an in-depth analysis of information products and other materials.
 
-#### Conducting a Gap Analysis
+## Conducting a Gap Analysis
 
 A gap analysis, suggests Sarah O’Keefe, Alan Pringle, and Bill Swallow, assesses the distance between the current quality of the content and the desired quality of the content” (p. 131). It further assesses gaps in needed roles and associated responsibilities, processes, and tools. 
 
@@ -122,7 +122,7 @@ Another key question for a gap analysis includes “What are the technology need
 
 * "Bringing Clarity to Content Strategy" in *Technical Communication* (2019), 66(2), by Rahel Bailie, pp. 121-124.
 
-#### Creating a Content Model
+## Creating a Content Model
 
 The next activity in developing a content strategy is content modeling, “the process of creating structures and frameworks that content must adhere to” (Getto, Labriola, & Ruszkiewicz, 2023, p. 104). Content modeling is an important step in defining the structure of different content types (e.g., tasks, definitions, concepts, troubleshooting information); for technical content, this process usually requires following structures pre-defined in a content standard such as DITA. Content modeling ensures that content of the same type follows a consistent structure and includes the same kind of information (or, in DITA, the same required elements). It ensures that content is both reusable and adaptable, and it offers important descriptive information (metadata) about each content type—its purposes, its uses, its audiences, its associated products, and more. 
 
@@ -145,7 +145,7 @@ The audience for content models is often the information technologists or conten
 
 Students in most cases will need to be their own content engineers, using their content models as guidelines for authoring consistent content, reusing that content where appropriate, and adding metadata to content to assist users, authors, and machines with search and retrieval. Thus, in addition to assigning chapter 12 in Rockley and Cooper, we recommend assigning chapter 13, “Reuse strategy,” and chapter 15, “Designing metadata.” Identifying reuse and metadata needs for information units in a content model can be immensely helpful in the implementation of a content strategy. 
 
-#### Developing a Content Strategy Plan
+## Developing a Content Strategy Plan
 
 The final activity in developing a content strategy is to do just that – create the plan. The plan “includes a written strategy for all of the activities that an organization will engage in to carry out their content strategy” (Getto, Labriola, and Ruszkiewicz, 2023, p. 120). It may include, suggests Sarah O’Keefe, Alan Pringle, and Bill Swallow (2019), recommendations for the content lifecycle, content governance, content velocity, content integration, content architecture, content delivery, localization, tools and technologies, a business case, and a budget and roadmap (pp. 132-133). 
 
