@@ -12,6 +12,6 @@ Through readings, discussions, and activities, instructors introducing students 
 - explain the principles and benefits of single-sourcing and content as computable data, including how these approaches contribute to content reuse, personalization, automation, and the reduction of errors in content and AI systems.
 
 ## Resources
-Listed [resources[(resources.md) focus on...
+Listed [resources](resources.md) focus on...
 
 ## Activities
