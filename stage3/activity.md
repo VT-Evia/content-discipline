@@ -1,5 +1,7 @@
 # Content Creation (and Management) Activities
 
+Activities in this stage focus on content creation and not necessarily the production of user-facing deliverables. Topic-based content creation is built on a foundation of separating content from presentation, and in some cases the presentation is not in the hands of a content author. 
+
 ## Creating a Structured Website
 
 Following the **Creating a Content Model** assignment from [Stage 2](../stage2/contentstrategyactivities.md), students can create an HTML-based project to be managed in a GitHub repository and hosted as a website on GitHub Pages.
