@@ -13,4 +13,8 @@ Through readings, discussions, and activities, instructors introducing students 
 
 ## Resources
 
+Most readings, tutorials, and tools included in the [Resources page for Stage 3](../stage3/resources.md) are still relevant as [Stage 4 resources](resources.md). The main difference is in the template repositories that use GitHub Actions for processing Markdown and DITA files to produce deliverables. 
+
 ## Activities
+
+This stage focuses on delivering and maintaining content by transforming topic collections into user-facing outputs using GitHub Actions workflows. Students practice advanced DITA authoring by creating a collection of topics—such as recipes tailored for different audiences—and organizing them in a DITA map. The activity emphasizes structured authoring, content reuse, conditional content for multiple audiences (e.g., vegan and non-vegan), and producing two different deliverables (PDF and website). Through this work, students gain experience with single-sourcing, workflow automation, and publishing professional-quality outputs.
