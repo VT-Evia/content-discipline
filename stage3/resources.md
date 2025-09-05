@@ -38,6 +38,7 @@ For this stage, we recommend several [resources developed and maintained by the 
 Some colleagues in academia report that at this stage the trap of working with too many tools (including expensive enterprise-level content management systems) can be intimidating. We recommend a few software tools to get started and focus on content creation and management on a budget. Proven tools at this stage include the following:
 
 - [Visual Studio Code](https://code.visualstudio.com/). An open source code editor for editing Markdown, HTML, and XML files.
-- [Oxygen XML Editor](https://www.oxygenxml.com/). An affordable XML editor with peerless (at this price point) DITA support.
+- [Oxygen XML Editor](https://www.oxygenxml.com/). An affordable XML editor with peerless (at this price point) DITA support. Its generous 30-day free trail can be enough for many introductory assignments.
+- [Oxygen Web Author](https://www.oxygenxml.com/xml_web_author.html). The free demo of this web-based app (with clean GitHub integration) is fully functional for DITA XML editing.
 - [XMLMind](https://www.xmlmind.com/). An entry-level DITA editor with an open source personal edition. 
 - [GitHub](https://github.com/). If you are reading this, you probably understand the importance of GitHub for technical content creation. 
