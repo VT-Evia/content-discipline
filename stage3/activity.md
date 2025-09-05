@@ -34,48 +34,30 @@ Students should use GitHub and Codespaces to work on their customize your websit
 
 Depending on the scope and needs of a specific course, this assignment can be created in Markdown or DITA XML. The focus at this stage is on content creation and not necessarily the production of deliverables. Whereas the HTML-based website from the previous assignment can easily produce a user-facing website with GitHub Pages, this assignment is more about the tasks associated with topic creation for later (in [Stage 4](../stage4/overview.md)) production of deliverables.
 
-We need to create a well-structured content collection about.... well.... a collection! The audience here is people like you. The content for this assignment will be based on something that you collect or that you are a fan of. It can be a collection of your PS5 games or a Harry Potter series of topics with detailed entries in which you review the books, movies, or characters. We will work in class to pitch topics and receive feedback.
-The Task:
+If this assignment will be based on DITA, we recommend only using the basic DITA topic type and save the specialized technical content types of concept, task, reference, and troubleshooting for a more advanced assignment.
 
-            Content Development:
-                Plan and create DITA topics (and a map) for entries in your collection.
-                We need one topic per entry. Be detailed, but concise.
-                Include images in <fig> environments.
+This assignment can have the same topic as the previous one with an intended audience of family members, friends, or peers. The content for this assignment will be based on something that the author collects or that is a fan of. It can be a collection of your PS5 games or a Harry Potter series of topics with detailed entries in which they review the books, movies, or characters.
 
-            Deliverable:
-                A Bootstrap-themed HTML website.
-                You can ask generative AI tools for the skeleton of your topics and map and then upload to Heretto.
+### Creating content
 
-What to Submit?
+Students should plan and create DITA topics (and a map) or Markdown files for entries in a collection. The assignment must require one topic or file per entry, respecting a content model in a detailed but concise tone. Images must include alt text content and, if included in DITA topics, be embeded on `<fig>` environments.
 
-Upload the zip file of your Bootstrap website to Canvas. I can access your DITA code in Heretto.
-Assessment Criteria:
+Consult the Resources page for this stage, which includes readings about Lightweight DITA (LwDITA). In LwDITA environments, a collection can include both DITA and Markdown topics.
 
-        Structure and Organization
-            Clear and logical organization of topics
-            Effective use of a DITA map to link topics
+Students should upload their collections of topics to a GitHub repository, and evaluation criteria can includer the following:
 
-        Use of DITA Features
-            Correct and effective use of DITA elements (e.g., <topic>, <fig>, <p>)
-            Proper content reuse with conrefs as needed.
+#### Structure and Organization
 
-        Content Clarity and Depth
-            Clear and concise writing suitable for the intended audience
-            Quality and quantity of content appropriate for a 4000-level English course at Virginia Tech
-            Depth of information and appropriate level of detail
+- Clear and logical organization of topics
+- Effective use of a DITA map to link topics (if using DITA)
 
-        Creativity and Originality
-            Creative content development for your collection
-            Original approach to using DITA attributes and reuse
+#### Content Clarity and Depth
 
-        Technical Implementation
-            Correct use of DITA tools and syntax
-            Clean and well-organized code, and proper use of Heretto to publish deliverables.
+- Clear and concise writing suitable for the intended audience
+- Quality and quantity of content appropriate for the course
+- Depth of information and appropriate level of detail
 
-Example documents from the Identifying Content Types and Relationships activity stage 1
+#### Technical Implementation
 
-HTML
-Markdown
-DITA
-
-Collection
+- Correct use of DITA or Markdown syntax
+- Clean and well-organized code.
