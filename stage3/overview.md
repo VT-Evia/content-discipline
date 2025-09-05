@@ -15,3 +15,5 @@ Through readings, discussions, and activities, instructors introducing students 
 Listed [resources](resources.md) focus on readings, tutorials, and tools recommended for entry-level technical content creation and management. 
 
 ## Activities
+
+This stage introduces two key activities in structured content creation: building a consistent, HTML-based website managed in GitHub and hosted on GitHub Pages, and developing a structured collection of topics using Markdown or DITA XML. In the website project, students follow a shared content model to ensure consistency across entries, focus on functionality and user experience, and present content tailored to a specific audience such as family or peers. The collection of topics assignment emphasizes planning, applying content models, and creating entries that balance clarity, depth, and structure, with optional use of DITA maps and Lightweight DITA. Both activities highlight audience awareness, technical accuracy, and content organization as essential skills for effective content creation.
