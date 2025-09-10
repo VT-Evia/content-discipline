@@ -4,7 +4,10 @@ In this stage, activities focus on processing content topics to produce user-fac
 
 ## Advanced Technical Content DITA Activity
 
-For this activity, we recommend using the [DITA Open Toolkit GitHub Actions template](https://github.com/VT-Evia/dita-ot-actions) repository in combination with a DITA-aware editor such as Oxygen XML (standalone editor or demo web author) or XMLMind. See the [Stage 3 resources](../stage3/resources.md) page for links and tutorials related to these tools. For years, we have used a version of the following activity to introduce students to more advanced technical content topic types and workflows using DITA XML.
+For this activity, we recommend using the [DITA Open Toolkit GitHub Actions template](https://github.com/VT-Evia/dita-ot-actions) repository in combination with a DITA-aware editor such as Oxygen XML (standalone editor or demo web author) or XMLMind. See the [Stage 3 resources](../stage3/resources.md) page for links and tutorials related to these tools. For years, we have used a version of the following activity to introduce students to more advanced technical content topic types and workflows using DITA XML. Particularly, the following resources should help with this activity:
+
+- Evia, C., Sharp, M., & Pérez-Quiñones, A. (2015). Teaching structured authoring and DITA through rhetorical and computational thinking. *IEEE Transactions on Professional Communication*, 58(3), 328–343.
+- Evia, C. (2018). *Creating intelligent content with Lightweight DITA*. New York: Routledge (mainly Chapter 8).
 
 ### Overview
 
