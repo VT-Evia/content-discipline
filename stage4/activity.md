@@ -10,7 +10,7 @@ For this activity, we recommend using the [Markdown/Pandoc GitHub Actions templa
 
 Students can take topic collections created in Markdown for the [Stage 3 activities](../stage3/activities.md) or convert to Markdown topics one of the suggested example documents to examine from the [Identifying Content Types and Relationships](../stage1/activity-identifyingcontenttypes.md) in Stage 1.
 
-Each Markdown file should contain a single topic representing an item in a collection or a section in one of the example documents to examine. Follow the formatting requirements in the template's README file. For a hypothetical collection of songs og the summer (2025 version), each file could have a fixed struture as follows:
+Each Markdown file should contain a single topic representing an item in a collection or a section in one of the example documents to examine. Follow the formatting requirements in the template's README file. For a hypothetical collection of songs of the summer (2025 version), each file could have a fixed structure as follows:
 
 ``` markdown
 ---
@@ -46,9 +46,9 @@ This song is representative of the screaming is singing movement of 2024-2025 ma
 3 out of 5 stars.
 ```
 
-The `navtitle` element in the metadata preface will be used by the template to generate a table of contents or nagivation menu for the deliverables.
+The `navtitle` element in the metadata preface will be used by the template to generate a table of contents or navigation menu for the deliverables.
 
-The naming of files in the collection should look as follows to create a hierachy:
+The naming of files in the collection should look as follows to create a hierarchy:
 
 ```
 index.md
