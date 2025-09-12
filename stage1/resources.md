@@ -27,7 +27,7 @@
 * Eichhorn, K. (2022). *Content*. Cambridge, MA: The MIT Press.
 * Rockley, A., Cooper, C., & Abel, S. (2015). *Intelligent content: A primer*. Laguna Hills, CA XML Press.
 
-## Explanations of Structured Authoring 
+## Explanations of Structured Authoring
 
 #### Videos, Webinars, and Podcasts
 * What are DITA Topics? by Stan Doherty, ACM SIGDOC Structured Authoring Committee - find article in multiple formats on the [Curriculum Resources](https://acm-sigdoc-structured.org/1-curriculum-resources.html) page of the committee website
