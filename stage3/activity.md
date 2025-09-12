@@ -4,13 +4,15 @@ Activities in this stage focus on content creation and not necessarily the produ
 
 ## Creating a Structured Website
 
-Following the **Creating a Content Model** assignment from [Stage 2](../stage2/contentstrategyactivities.md), students can create an HTML-based project to be managed in a GitHub repository and hosted as a website on GitHub Pages.
+Following the **Creating a Content Model** activity from [Stage 2](../stage2/contentstrategyactivities.md), students can create an HTML-based project to be managed in a GitHub repository and hosted as a website on GitHub Pages. The goal of this activity is not to create the kinds of reusable topics (content chunks) required in structured authoring workflows but rather to gain familiarity with applying a content model to content creation, using a code editor, and assembling a website.
 
-A consistent format for every entry/page in this website assignment is key to maintaining the content model. This is not an assignment for individual formatting across pages or entries. We have used topics ranging from the top 10 songs on the hit parade, to a collection of favorite books or movies, to a catalog of the courses a student is taking in a given term. Audience considerations will drive the content, so it is important to specify who the intended reader of the website deliverable is. We frequently ask students to build the website for family members and friends back home.
+A consistent format for every entry/page in this website activity is key to maintaining the content model. This is not an assignment for individual formatting across pages or entries. For topics, students can continue with the project that they started in Stage 2 (using this activity as an opportunity to create content in accordance with their content model), or they can select a topic that interests them. We have used topics ranging from the top 10 songs on the hit parade, to a collection of favorite books or movies, to a catalog of the courses a student is taking in a given term. 
 
-The project includes the following:
+Audience considerations will drive the content, so it is important to specify who the intended reader of the website deliverable is. If students are building on the activities that they completed in Stage 2 when developing a content strategy plan, their audience should already be well defined. If students are selecting topics of interest to them, they might build their website for family members and friends.
 
-### Planning the content model
+The project includes three main tasks: planning the content model, creating content, and assembling the website.
+
+### Planning the Content Model
 
 Each page on the planned website must follow the same structure and contain one topic. For example, a website with the top 10 songs of the summer might be based on a content model like the following:
 
@@ -20,9 +22,9 @@ Each page on the planned website must follow the same structure and contain one 
 - Personal review  
 - Rating on a scale of 1 to 5 stars  
 
-Students are allowed to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience.
+Students are allowed to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience. We recommend having students use [Visual Studio Code](https://code.visualstudio.com/) to develop the code structure for their website pages. The built-in AI agent can generate the HTML for the pages following the content model that students will need to describe in a prompt. Visual Studio Code also integrates with GitHub, allowing students to push their HTML, CSS, and JS files to their GitHub repository. 
 
-### Creating content
+### Creating Content
 
 Once the students have the code structure for each entry in their project, they need to conduct research for the actual content. Then, they will use the HTML template files to create consistent entries with effective content that satisfies their users' information needs.
 
