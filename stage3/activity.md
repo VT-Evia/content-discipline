@@ -22,7 +22,9 @@ Each page on the planned website must follow the same structure and contain one 
 - Personal review  
 - Rating on a scale of 1 to 5 stars  
 
-Students are allowed to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience. We recommend having students use [Visual Studio Code](https://code.visualstudio.com/) to develop the code structure for their website pages. The AI-powered assistant, Copilot, can generate the HTML for the pages following the content model that students will need to describe in a prompt. Visual Studio Code also integrates with GitHub, allowing students to push their HTML, CSS, and JS files to their GitHub repository. There is both a desktop and browser-based version of Visual Studio Code; we recommend... **(Carlos - we need to offer some instruction here. I downloaded VS Code and it walked me through the process of activating my Copilot subscription. I then used Copilot to build my website files. But you have to have a subscription to use Copilot. What guidance can we offer student using the desktop version? Web-based version? Instruct teachers to have students get a Copilot free plan and then use agent mode in VS Code? - [Use agent mode in Visual Studio Code](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode) - also want to offer some sample prompts**
+Students are allowed to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience. We recommend having students use [Visual Studio Code](https://code.visualstudio.com/) to develop the code structure for their website pages. The AI-powered assistant, Copilot, can generate the HTML for the pages following the content model that students will need to describe in a prompt. Visual Studio Code also integrates with GitHub, allowing students to push their HTML, CSS, and JS files to their GitHub repository. There is both a desktop and browser-based version of Visual Studio Code. We recommend using the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor), which provides many of the benefits of Visual Studio Code without additional downloads.
+
+**Sample prompt goes here***
 
 ### Creating Content
 
@@ -44,7 +46,9 @@ This assignment can use the same topic as the previous one, with an intended aud
 
 ### Creating content
 
-Students should plan and create DITA topics (and a map) or Markdown files for entries in a collection. The assignment must require one topic or file per entry, following a content model in a detailed but concise tone. Images must include alt text content and, if included in DITA topics, be embedded in `<fig>` environments.
+Students should plan and create DITA topics (and a map) or Markdown files for entries in a collection. We recommend using the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor), which provides many of the benefits of Visual Studio Code without additional downloads.If students or instructors do not want to interact directly with DITA code, they can use the demo version of [Oxygen Web Author](https://www.oxygenxml.com/xml_web_author.html), which integrates with GitHub and is functional for lightweght projects. For more advanced, semester-long projects, instructors should consider a downloadable DITA editor like [Oxygen Editor](https://www.oxygenxml.com/), which is relatively affordable in its academic license and also offers a free trail, or [XMLMind](https://www.xmlmind.com/xmleditor/), which offers an open source personal edition.
+
+The assignment must require one topic or file per entry, following a content model in a detailed but concise tone. Images must include alt text content and, if included in DITA topics, be embedded in `<fig>` environments.
 
 Consult the resources page for this stage, which includes readings about Lightweight DITA (LwDITA). In LwDITA environments, a collection can include both DITA and Markdown topics.
 
