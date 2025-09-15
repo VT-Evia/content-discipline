@@ -105,11 +105,18 @@ However, if students are continuing the content strategy project that they start
 
 Students should plan and create DITA topics (and a map) or Markdown files for entries in a collection. We recommend using the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) for Markdown files (the desktop version of Visual Studio Code is also a good option but must be downloaded). A great option for creating DITA topics is the demo version of [Oxygen Web Author](https://www.oxygenxml.com/xml_web_author.html), which integrates with GitHub and is functional for lightweight projects. For more advanced, term-long projects, instructors should consider a downloadable DITA editor like [Oxygen Editor](https://www.oxygenxml.com/), which is relatively affordable in its academic license and also offers a free trial, or [XMLMind](https://www.xmlmind.com/xmleditor/), which offers an open source personal edition.
 
-LIST SUGGESTED TUTORIALS FOR OXYGEN AND XMLMIND HERE
+For creating DITA topics, we recommend these [tutorials developed and maintained by the SIGDOC Structured Authoring Committee](https://www.acm-sigdoc-structured.org/1-curriculum-resources.html):
 
-The assignment must require one topic or file per entry, following a content model in a detailed but concise tone. Images must include alt text content and, if included in DITA topics, be embedded in `<fig>` environments.
+-	[Configuring Oxygen Editor] (https://www.acm-sigdoc-structured.org/postings/ConfiguringOxygenEditor.pdf)
+-	[Oxygen Editor Quickstart: How do I create, assemble, and build my first DITA publication in Syncro Soft Oxygen Editor?] (https://www.acm-sigdoc-structured.org/postings/OxygenEditorQuickstart.pdf)
+-	[XMLmind Editor Quickstart: How do I create, assemble, and build my first DITA publication?](https://www.acm-sigdoc-structured.org/postings/XMLMindEditorQuickstart_Post.pdf)
 
-Consult the resources page for this stage, which includes readings about Lightweight DITA (LwDITA). In LwDITA environments, a collection can include both DITA and Markdown topics.
+Students should create one topic or file per entry (e.g., recipe, book review, video game review) or per task, concept, or reference, following a content model in a detailed but concise tone. If creating a collection of DITA topic files, students must also create a DITA map. Images must include alt text content and, if included in DITA topics, be embedded in `<fig>` environments.
+
+Consult the resources page for this stage, which includes readings about Lightweight DITA (LwDITA). In LwDITA environments, a collection can include both DITA and Markdown topics. We also recommend revising the following resources: 
+
+* What are DITA Topics? by Stan Doherty, ACM SIGDOC Structured Authoring Committee - find article in multiple formats on the [Curriculum Resources](https://acm-sigdoc-structured.org/1-curriculum-resources.html) page of the committee website
+* [What is DITA XML?](https://www.youtube.com/watch?v=Y9SzB5KceIQ&list=PL4ZeW5ujwMiHejcQaJrhxlSCHcRqlTidx&index=6) [video] by Heretto 
 
 Students should upload their collections of topics to a GitHub repository. Evaluation criteria can include the following:
 
