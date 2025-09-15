@@ -24,11 +24,15 @@ Each page on the planned website must follow the same structure and contain one 
 - Personal review  
 - Rating on a scale of 1 to 5 stars  
 
-When we practice this activity, we allow students to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience. We recommend having students use [Visual Studio Code](https://code.visualstudio.com/) to develop the code structure for their website pages. Most LLM chat agents can generate the HTML code for the pages following the content model that students will need to describe in a prompt. Visual Studio Code also integrates with GitHub, allowing students to push their HTML, CSS, and JS files to their GitHub repository. There is both a desktop and browser-based version of Visual Studio Code. We recommend using the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor), which provides many of the benefits of Visual Studio Code without additional downloads.
+When we practice this activity, we allow students to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience. We recommend having students use an LLM chat agent such as ChatGPT or Copilot to generate the code for their HTML, CSS, and JS files. Students can prompt the chat agent to develop a consistent structure for each web page in accordance with their content model. Students should save their files to a local folder on their machine (they will then upload their files to a GitHub repository that they will create as their next main task). 
+
+Two alterative ways to generate the skeleton HTML, CSS, and JS files are as follows: 
+- Use Github Copilot (via the "Chat with Copilot" icon in Github next to the search box). This approach allows for pushing the files directly to a GitHub repository - Copilot can be prompted to do this.
+- Use the desktop version of [Visual Studio Code](https://code.visualstudio.com/). Visual Studio Code integrates with Github. Students who do not have a subscription to Github Copilot can sign up for a 30-day free trial directly from the downloaded version of Visual Studio Code. Using Github Copilot in Visual Studio Code, students can generate the HTML, CSS, and JS files for their website. They can also push these files directly to a GitHub repository.  
 
 #### Sample Prompt
 
-We have included a [sample, detailed prompt](sample-prompt.md) related to this assignment for an LLM chat agent.
+We have included a [sample, detailed prompt](sample-prompt.md) related to this assignment for an LLM chat agent. This prompt asks the chat agent to create the HTML, CSS, and JS files for a website for the top 10 songs on the hit parade. But students can customize the prompt for any topic, including for the project that they started in Stage 2. 
 
 ---
 
@@ -52,8 +56,8 @@ Students can follow these steps to create a repository, add their project files,
 
 ### 2) Open the repo in the github.dev editor (recommended)
 
-- On your new repository’s main page, press the `.` (period) key to open the **github.dev** editor in your browser.
-- This gives you a full editor experience without installing anything locally.
+- On your new repository’s main page, press the `.` (period) key to open the **github.dev** editor in your browser. 
+- This gives you a full editor experience without installing anything locally. Learn more about the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor).
 
 ### 3) Upload your files
 
