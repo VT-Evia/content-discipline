@@ -31,7 +31,61 @@ We have included a [sample, detailed prompt](sample-prompt.md) related to this a
 
 ### Setting Up the GitHub Infrastructure
 
-Content goes here
+Students can follow these steps to create a repository, add their project files, and publish the site on GitHub Pages. This section focuses only on **infrastructure**—file organization, commits, and publishing. Students will author **all of their content** in later steps.
+
+> **Prerequisites**
+> - A GitHub account and the ability to sign in.
+> - The code scaffold (HTML/CSS/JS) generated **without** any sample content.
+> - Recommended editor: the **github.dev** web editor (press `.` while viewing your repo on github.com).
+
+---
+
+### 1) Create a new repository
+
+1. Go to <https://github.com/new>.
+2. **Repository name**: choose something relevant to your topic (e.g., `summer-top-10`, `course-catalog`, `favorite-books`).
+3. **Visibility**: select **Public** (recommended for GitHub Pages).
+4. Check **Add a README file** (optional but helpful).
+5. Click **Create repository**.
+
+---
+
+### 2) Open the repo in the github.dev editor (recommended)
+
+- On your new repository’s main page, press the `.` (period) key to open the **github.dev** editor in your browser.
+- This gives you a full editor experience without installing anything locally.
+
+---
+
+### 3) Upload your files
+
+1. From your repo page, click **Add file → Upload files**.
+2. Drag-and-drop your local files/folders into the upload area.
+3. Scroll down, enter a commit message, and click **Commit changes**.
+
+> **Commit message guidance:** Write short, descriptive messages (e.g., “Create data folder and empty entries.json”). Small, frequent commits make it easier to review and troubleshoot.
+
+---
+
+### 4) Verify required files
+
+- Confirm `index.html` exists at the root; this is the default entry point for GitHub Pages.
+- Confirm `assets/css/styles.css` and `assets/js/main.js` are referenced correctly from your HTML.
+
+---
+
+### 5) Enable GitHub Pages to publish your site
+
+1. Go to **Settings → Pages** in your repository.
+2. Under **Build and deployment**, select:
+   - **Source**: *Deploy from a branch*
+   - **Branch**: `main` (or your default branch) and **/ (root)** as the folder
+3. Click **Save**.
+4. After a moment, GitHub will provide a public URL of the form:
+https://<your-username>.github.io/<your-repo-name>/
+5. Visit the URL to confirm the site loads. If you see a 404, wait a minute and refresh, or re-check that `index.html` is at the root.
+
+----
 
 ### Creating Content
 
