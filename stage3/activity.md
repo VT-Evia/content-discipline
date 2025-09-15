@@ -41,7 +41,7 @@ Students should use GitHub (we recommend using the github.dev editor inside GitH
 
 ## Creating a Structured Collection of Topics
 
-Depending on the scope and needs of a specific course, this assignment can be created in Markdown or DITA XML. The focus at this stage is on content creation and not necessarily on the production of deliverables. Whereas the HTML-based website from the previous assignment can easily produce a user-facing website with GitHub Pages, this assignment is more about the tasks associated with topic creation for later (in [Stage 4](../stage4/overview.md)) production of deliverables.
+Depending on the scope and needs of a specific course, this assignment can be created in Markdown or DITA XML. The focus at this stage is on content creation and not necessarily on the production of deliverables. Whereas the HTML-based website from the previous assignment can easily produce a user-facing website with GitHub Pages, this assignment is more about the tasks associated with topic creation for later (in [Stage 3](../stage4/overview.md)) production of deliverables.
 
 If this assignment is based on DITA, we recommend using only the basic DITA topic type and saving the specialized technical content types (concept, task, reference, and troubleshooting) for a more advanced assignment.
 
