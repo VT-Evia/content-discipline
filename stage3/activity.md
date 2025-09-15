@@ -12,6 +12,7 @@ Audience considerations will drive the content, so it is important to specify wh
 
 The project includes four main tasks: planning the content model, setting up the GitHub infrastructure, creating content, and assembling the website.
 
+---
 
 ### Planning the Content Model
 
@@ -29,6 +30,8 @@ When we practice this activity, we allow students to use generative AI tools to 
 
 We have included a [sample, detailed prompt](sample-prompt.md) related to this assignment for an LLM chat agent.
 
+---
+
 ### Setting Up the GitHub Infrastructure
 
 Students can follow these steps to create a repository, add their project files, and publish the site on GitHub Pages. This section focuses only on **infrastructure**—file organization, commits, and publishing. Students will author **all of their content** in later steps.
@@ -38,7 +41,6 @@ Students can follow these steps to create a repository, add their project files,
 > - The code scaffold (HTML/CSS/JS) generated **without** any sample content.
 > - Recommended editor: the **github.dev** web editor (press `.` while viewing your repo on github.com).
 
----
 
 ### 1) Create a new repository
 
@@ -48,14 +50,10 @@ Students can follow these steps to create a repository, add their project files,
 4. Check **Add a README file** (optional but helpful).
 5. Click **Create repository**.
 
----
-
 ### 2) Open the repo in the github.dev editor (recommended)
 
 - On your new repository’s main page, press the `.` (period) key to open the **github.dev** editor in your browser.
 - This gives you a full editor experience without installing anything locally.
-
----
 
 ### 3) Upload your files
 
@@ -65,14 +63,12 @@ Students can follow these steps to create a repository, add their project files,
 
 > **Commit message guidance:** Write short, descriptive messages (e.g., “Create data folder and empty entries.json”). Small, frequent commits make it easier to review and troubleshoot.
 
----
 
 ### 4) Verify required files
 
 - Confirm `index.html` exists at the root; this is the default entry point for GitHub Pages.
 - Confirm `assets/css/styles.css` and `assets/js/main.js` are referenced correctly from your HTML.
 
----
 
 ### 5) Enable GitHub Pages to publish your site
 
