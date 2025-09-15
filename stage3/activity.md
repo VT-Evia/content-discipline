@@ -42,7 +42,7 @@ Students can follow these steps to create a repository, add their project files,
 
 > **Prerequisites**
 > - A GitHub account and the ability to sign in.
-> - The code scaffold (HTML/CSS/JS) generated **without** any sample content.
+> - The HTML, CSS, and JS files generated **without** any sample content.
 > - Recommended editor: the **github.dev** web editor (press `.` while viewing your repo on github.com).
 
 
@@ -61,7 +61,7 @@ Students can follow these steps to create a repository, add their project files,
 
 ### 3) Upload your files
 
-1. From your repo page, click **Add file → Upload files**.
+1. From your repository page, click **Add file → Upload files**.
 2. Drag-and-drop your local files/folders into the upload area.
 3. Scroll down, enter a commit message, and click **Commit changes**.
 
@@ -89,7 +89,7 @@ https://<your-username>.github.io/<your-repo-name>/
 
 ### Creating Content
 
-Once the students have the code structure for each entry in their project, they need to conduct research for the actual content. Then, they will use the HTML template files to create consistent entries with effective content that satisfies their users' information needs.
+Once the students have their HTML, CSS, and JS files in their repository, they need to conduct research for the actual content that they need to write. Then, they will open each HTML file in the **github.dev** web editor (press `.` while viewing your repo on github.com) and create consistently structured, effective content that satisfies their users' information needs. To save changes to a file, students can click the **Source Control** icon on the leftside menu (it should indicate pending changes), enter a message in the commit message field that describes the changes, and click **Commit & Push**. The file will be updated in the repository and the change will be reflected when viewing the website hosted on GitHub Pages.   
 
 ---
 
