@@ -107,8 +107,8 @@ Students should plan and create DITA topics (and a map) or Markdown files for en
 
 For creating DITA topics, we recommend these [tutorials developed and maintained by the SIGDOC Structured Authoring Committee](https://www.acm-sigdoc-structured.org/1-curriculum-resources.html):
 
--	[Configuring Oxygen Editor] (https://www.acm-sigdoc-structured.org/postings/ConfiguringOxygenEditor.pdf)
--	[Oxygen Editor Quickstart: How do I create, assemble, and build my first DITA publication in Syncro Soft Oxygen Editor?] (https://www.acm-sigdoc-structured.org/postings/OxygenEditorQuickstart.pdf)
+-	[Configuring Oxygen Editor](https://www.acm-sigdoc-structured.org/postings/ConfiguringOxygenEditor.pdf)
+-	[Oxygen Editor Quickstart: How do I create, assemble, and build my first DITA publication in Syncro Soft Oxygen Editor?](https://www.acm-sigdoc-structured.org/postings/OxygenEditorQuickstart.pdf)
 -	[XMLmind Editor Quickstart: How do I create, assemble, and build my first DITA publication?](https://www.acm-sigdoc-structured.org/postings/XMLMindEditorQuickstart_Post.pdf)
 
 Students should create one topic or file per entry (e.g., recipe, book review, video game review) or per task, concept, or reference, following a content model in a detailed but concise tone. If creating a collection of DITA topic files, students must also create a DITA map. Images must include alt text content and, if included in DITA topics, be embedded in `<fig>` environments.
