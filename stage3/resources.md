@@ -28,7 +28,7 @@ For this stage, we recommend several [resources developed and maintained by the 
 
 - What are DITA topics?
 - Oxygen Editor Quickstart
-- XMLMind Quickstart
+- XMLMind Editor Quickstart
 - What is Github and how do I get started with it?
 - How do I publish content using GitHub Pages?
 - Modular documentation in a docs-as-code environment.
