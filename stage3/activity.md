@@ -32,7 +32,7 @@ Two alterative ways to generate the skeleton HTML, CSS, and JS files are as foll
 
 #### Sample Prompt
 
-We have included a [sample, detailed prompt](sample-prompt.md) related to this assignment for an LLM chat agent. This prompt asks the chat agent to create the HTML, CSS, and JS files for a website for the top 10 songs on the hit parade. But students can customize the prompt for any topic, including for the project that they started in Stage 2. 
+We have included a [sample, detailed prompt](sample-prompt.md) related to this assignment for an LLM chat agent. This prompt asks the chat agent to create the HTML, CSS, and JS files for a website. Students will need to customize the audience, topic domain, and content model in the prompt before asking the chat agent to generate the code. 
 
 ---
 
