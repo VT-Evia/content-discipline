@@ -10,7 +10,7 @@ A consistent format for every entry/page in this website activity is key to main
 
 Audience considerations will drive the content, so it is important to specify who the intended reader of the website deliverable is. If students are building on the activities that they completed in Stage 2 when developing a content strategy plan, their audience should already be well defined. If students are selecting topics of interest to them, they might build their website for family members and friends.
 
-The project includes four main tasks: planning the content model, setting up the GitHub infrastructure, creating content, and assembling the website.
+The project includes three main tasks: planning the content model, setting up the GitHub infrastructure, and creating content.
 
 ---
 
@@ -86,10 +86,6 @@ https://<your-username>.github.io/<your-repo-name>/
 ### Creating Content
 
 Once the students have the code structure for each entry in their project, they need to conduct research for the actual content. Then, they will use the HTML template files to create consistent entries with effective content that satisfies their users' information needs.
-
-### Assembling the website
-
-Students should use GitHub (we recommend using the github.dev editor inside GitHub) to customize their websites by creating a GitHub repository named in a way relevant to their site’s topic. The [resources](resources.md) page for this stage includes tutorials for GitHub and GitHub Pages that will be essential for this assignment.
 
 ---
 
