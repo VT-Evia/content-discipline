@@ -22,9 +22,74 @@ Each page on the planned website must follow the same structure and contain one 
 - Personal review  
 - Rating on a scale of 1 to 5 stars  
 
-Students are allowed to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience. We recommend having students use [Visual Studio Code](https://code.visualstudio.com/) to develop the code structure for their website pages. The AI-powered assistant, Copilot, can generate the HTML for the pages following the content model that students will need to describe in a prompt. Visual Studio Code also integrates with GitHub, allowing students to push their HTML, CSS, and JS files to their GitHub repository. There is both a desktop and browser-based version of Visual Studio Code. We recommend using the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor), which provides many of the benefits of Visual Studio Code without additional downloads.
+When we practice this activity, we allow students to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience. We recommend having students use [Visual Studio Code](https://code.visualstudio.com/) to develop the code structure for their website pages. Most LLM chat agents can generate the HTML code for the pages following the content model that students will need to describe in a prompt. Visual Studio Code also integrates with GitHub, allowing students to push their HTML, CSS, and JS files to their GitHub repository. There is both a desktop and browser-based version of Visual Studio Code. We recommend using the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor), which provides many of the benefits of Visual Studio Code without additional downloads.
 
-**Sample prompt goes here***
+#### Sample Prompt
+
+> You are a coding assistant. Create a small, static website scaffold (HTML/CSS/JS) suitable for hosting on GitHub Pages. The site will implement a single, consistent content model for multiple entries/pages. Do not generate any sample content, filler text, or “lorem ipsum.” Use clearly marked placeholders and empty elements where students will author their own content.
+
+> ##### Audience
+
+> Primary audience: Classmates, friends/family.
+>> The design should prioritize readability, simple navigation, and accessibility for this audience.
+
+> Topic & Content Model
+>> Topic domain: "Top 10 songs of the summer,” “My current semester courses,” “Favorite books,” etc.
+>> Each page shows one entry that follows this exact content model (keep labels visible in the code as data-field attributes and comments):
+```
+title (short title for the entry)
+creator (e.g., performer/author/instructor)
+image (single representative image)
+description (student-authored review/summary/notes)
+rating (1–5 stars)
+```
+> Ensure the HTML includes empty elements / placeholders for each field. Students will author content later—do not include any example values.
+
+> ####Technical Requirements
+>> Files & Structure
+```
+/ (project root)
+├─ index.html                    # Lists all entries with consistent cards (no sample data)
+├─ entry.html                    # Template page showing one entry/topic (no sample data)
+├─ assets/
+│  ├─ css/
+│  │  └─ styles.css
+│  ├─ js/
+│  │  └─ main.js
+│  └─ images/                    # empty folder; do not add images
+└─ README.md                     # brief usage notes for students (no content examples)
+
+>> HTML & Accessibility
+>>>- Use semantic HTML5 with header, nav, main, footer.
+- Include a skip-to-content link and sensible heading hierarchy.
+- Provide an accessible nav with links to Home (index.html) and a generic All Entries anchor.
+- Image wrapper with empty src and placeholder alt that says: <!-- STUDENT: write meaningful alt text -->
+- Do not include any example text; instead, include comments like <!-- STUDENT: write your own [field] here -->.
+
+>>CSS
+>>>- Create a clean, responsive layout using CSS Grid/Flexbox.
+- No frameworks. Keep the palette neutral and minimal.
+Include a prominent comment block at the top of index.html and entry.html:
+<!--
+  CONTENT POLICY FOR THIS ASSIGNMENT:
+  - Students must author all entry content themselves.
+  - Do NOT paste or generate content from AI systems.
+  - This scaffold provides structure only (HTML/CSS/JS).
+  - Replace placeholders with your own writing and media.
+-->
+Quality & Consistency Guards
+Ensure the same field order and labels appear across index.html cards and entry.html detail view.
+Provide a small “Model Inspector” section (collapsed <details> in the footer) that shows the current schema.json keys (fetched and listed). No sample data.
+Output Format
+Provide all files in one response, each preceded by a clear filename line like:
+--- index.html ---
+[file contents]
+--- assets/css/styles.css ---
+[file contents]
+...
+Keep comments concise and instructional. No example content values anywhere.
+Do not include images or external libraries. Everything must be self-contained.
+Generate the code now.
 
 ### Creating Content
 
@@ -32,7 +97,7 @@ Once the students have the code structure for each entry in their project, they 
 
 ### Assembling the website
 
-Students should use GitHub and Codespaces to customize their websites by creating a GitHub repository named in a way relevant to their site’s topic. The [resources](resources.md) page for this stage includes tutorials for GitHub and GitHub Pages that will be essential for this assignment.
+Students should use GitHub (we recommend using the github.dev editor inside GitHub) to customize their websites by creating a GitHub repository named in a way relevant to their site’s topic. The [resources](resources.md) page for this stage includes tutorials for GitHub and GitHub Pages that will be essential for this assignment.
 
 ---
 
