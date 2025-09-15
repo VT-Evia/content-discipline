@@ -10,7 +10,8 @@ A consistent format for every entry/page in this website activity is key to main
 
 Audience considerations will drive the content, so it is important to specify who the intended reader of the website deliverable is. If students are building on the activities that they completed in Stage 2 when developing a content strategy plan, their audience should already be well defined. If students are selecting topics of interest to them, they might build their website for family members and friends.
 
-The project includes three main tasks: planning the content model, creating content, and assembling the website.
+The project includes four main tasks: planning the content model, setting up the GitHub infrastructure, creating content, and assembling the website.
+
 
 ### Planning the Content Model
 
@@ -28,6 +29,9 @@ When we practice this activity, we allow students to use generative AI tools to 
 
 We have included a [sample, detailed prompt](sample-prompt.md) related to this assignment for an LLM chat agent.
 
+### Setting Up the GitHub Infrastructure
+
+Content goes here
 
 ### Creating Content
 
