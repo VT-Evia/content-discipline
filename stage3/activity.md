@@ -46,7 +46,7 @@ Students can follow these steps to create a repository, add their project files,
 > - Recommended editor: the **github.dev** web editor (press `.` while viewing your repo on github.com).
 
 
-### 1) Create a new repository
+## 1) Create a new repository
 
 1. Go to <https://github.com/new>.
 2. **Repository name**: choose something relevant to your topic (e.g., `summer-top-10`, `course-catalog`, `favorite-books`).
@@ -54,12 +54,12 @@ Students can follow these steps to create a repository, add their project files,
 4. Check **Add a README file** (optional but helpful).
 5. Click **Create repository**.
 
-### 2) Open the repo in the github.dev editor (recommended)
+## 2) Open the repo in the github.dev editor (recommended)
 
 - On your new repository’s main page, press the `.` (period) key to open the **github.dev** editor in your browser. 
 - This gives you a full editor experience without installing anything locally. Learn more about the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor).
 
-### 3) Upload your files
+## 3) Upload your files
 
 1. From your repository page, click **Add file → Upload files**.
 2. Drag-and-drop your local files/folders into the upload area.
@@ -68,13 +68,13 @@ Students can follow these steps to create a repository, add their project files,
 > **Commit message guidance:** Write short, descriptive messages (e.g., “Create data folder and empty entries.json”). Small, frequent commits make it easier to review and troubleshoot.
 
 
-### 4) Verify required files
+## 4) Verify required files
 
 - Confirm `index.html` exists at the root; this is the default entry point for GitHub Pages.
 - Confirm `assets/css/styles.css` and `assets/js/main.js` are referenced correctly from your HTML.
 
 
-### 5) Enable GitHub Pages to publish your site
+## 5) Enable GitHub Pages to publish your site
 
 1. Go to **Settings → Pages** in your repository.
 2. Under **Build and deployment**, select:
@@ -95,7 +95,7 @@ Once the students have their HTML, CSS, and JS files in their repository, they n
 
 ## Creating a Structured Collection of Topics
 
-Depending on the scope and needs of a specific course, this activity can be created in Markdown or DITA XML. The focus at this stage is on content creation and not necessarily on the production of deliverables. Whereas the HTML-based website from the previous activity can easily produce a user-facing website with GitHub Pages, this activity is more about the tasks associated with topic creation for later (in [Stage 3](../stage4/overview.md)) production of deliverables.
+Depending on the scope and needs of a specific course, this activity can be created in Markdown or DITA XML. The focus at this stage is on content creation and not necessarily on the production of deliverables. Whereas the HTML-based website from the previous activity can easily produce a user-facing website with GitHub Pages, this activity is more about the tasks associated with topic creation for later (in [Stage 4](../stage4/overview.md)) production of deliverables.
 
 If this activity is based on DITA, we recommend using only the basic DITA topic type and saving the specialized technical content types (concept, task, reference, and troubleshooting) for a more advanced project. The basic DITA topic is a good fit for topics based on something that the author collects or is a fan of (e.g., a collection of PS5 games or a Harry Potter series of topics with detailed entries in which the student reviews the books, movies, or characters). The audience for this kind of project might be family members, friends, or peers. 
 
@@ -105,24 +105,33 @@ However, if students are continuing the content strategy project that they start
 
 Students should plan and create DITA topics (and a map) or Markdown files for entries in a collection. We recommend using the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) for Markdown files (the desktop version of Visual Studio Code is also a good option but must be downloaded). A great option for creating DITA topics is the demo version of [Oxygen Web Author](https://www.oxygenxml.com/xml_web_author.html), which integrates with GitHub and is functional for lightweight projects. For more advanced, term-long projects, instructors should consider a downloadable DITA editor like [Oxygen Editor](https://www.oxygenxml.com/), which is relatively affordable in its academic license and also offers a free trial, or [XMLMind](https://www.xmlmind.com/xmleditor/), which offers an open source personal edition.
 
-For creating DITA topics, we recommend these [tutorials developed and maintained by the SIGDOC Structured Authoring Committee](https://www.acm-sigdoc-structured.org/1-curriculum-resources.html):
+For creating DITA topics, we recommend these tutorials (several of which are developed and maintained by the [SIGDOC Structured Authoring Committee](https://www.acm-sigdoc-structured.org/1-curriculum-resources.html):
 
 -	[Configuring Oxygen Editor](https://www.acm-sigdoc-structured.org/postings/ConfiguringOxygenEditor.pdf)
 -	[Oxygen Editor Quickstart: How do I create, assemble, and build my first DITA publication in Syncro Soft Oxygen Editor?](https://www.acm-sigdoc-structured.org/postings/OxygenEditorQuickstart.pdf)
 -	[XMLmind Editor Quickstart: How do I create, assemble, and build my first DITA publication?](https://www.acm-sigdoc-structured.org/postings/XMLMindEditorQuickstart_Post.pdf)
+-	ADD TUTORIAL OR DOCUMENTATION LINK FOR OXYGEN WEB AUTHOR
 
-Students should create one topic or file per entry (e.g., recipe, book review, video game review) or per task, concept, or reference, following a content model in a detailed but concise tone. If creating a collection of DITA topic files, students must also create a DITA map. Images must include alt text content and, if included in DITA topics, be embedded in `<fig>` environments.
+Students should create one Markdown file or DITA topic file per entry (e.g., recipe instructions, recipe history, book review, video game review, product overview, product set-up instructions), following a content model in a detailed but concise tone. If creating a collection of DITA topic files, students must also create a DITA map. Images must include alt text content and, if included in DITA topics, be embedded in `<fig>` environments.
 
-Consult the resources page for this stage, which includes readings about Lightweight DITA (LwDITA). In LwDITA environments, a collection can include both DITA and Markdown topics. We also recommend revising the following resources: 
+Consult the resources page for this stage, which includes readings about Lightweight DITA (LwDITA). In LwDITA environments, a collection can include both DITA and Markdown topics. We also recommend revisiting the following resources listed in [Stage 1 resources](../stage1/resources.md): 
 
 * What are DITA Topics? by Stan Doherty, ACM SIGDOC Structured Authoring Committee - find article in multiple formats on the [Curriculum Resources](https://acm-sigdoc-structured.org/1-curriculum-resources.html) page of the committee website
 * [What is DITA XML?](https://www.youtube.com/watch?v=Y9SzB5KceIQ&list=PL4ZeW5ujwMiHejcQaJrhxlSCHcRqlTidx&index=6) [video] by Heretto 
 
-Students should upload their collections of topics to a GitHub repository. Evaluation criteria can include the following:
+As prerequisites to this activity, instructors might assign the two information typing activities in Stage 1: [Analyzing Topic-Based Documentation](activity-analyzingdocumentation.md) and 
+[Identifying Content Types and Relationships](activity-identifyingcontenttypes.md).
+
+Students should upload their collections of topics to a GitHub repository (refer to instructions in the section "Setting Up the GitHub Infrastructure" above).
+
+### Creating Evaluation Criteria
+
+Evaluation criteria might include the following:
 
 #### Structure and Organization
 
-- Clear and logical organization of topics  
+- Clear and logical organization of topics
+- Consistent structure across same content types (e.g., book reviews, recipe instructions) 
 - Effective use of a DITA map to link topics (if using DITA)  
 
 #### Content Clarity and Depth
