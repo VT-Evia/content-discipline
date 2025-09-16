@@ -46,7 +46,7 @@ Students can follow these steps to create a repository, add their project files,
 > - Recommended editor: the **github.dev** web editor (press `.` while viewing your repo on github.com).
 
 
-## 1) Create a new repository
+#### 1) Create a new repository
 
 1. Go to <https://github.com/new>.
 2. **Repository name**: choose something relevant to your topic (e.g., `summer-top-10`, `course-catalog`, `favorite-books`).
@@ -54,12 +54,12 @@ Students can follow these steps to create a repository, add their project files,
 4. Check **Add a README file** (optional but helpful).
 5. Click **Create repository**.
 
-## 2) Open the repo in the github.dev editor (recommended)
+#### 2) Open the repo in the github.dev editor (recommended)
 
 - On your new repository’s main page, press the `.` (period) key to open the **github.dev** editor in your browser. 
 - This gives you a full editor experience without installing anything locally. Learn more about the [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor).
 
-## 3) Upload your files
+#### 3) Upload your files
 
 1. From your repository page, click **Add file → Upload files**.
 2. Drag-and-drop your local files/folders into the upload area.
@@ -68,13 +68,13 @@ Students can follow these steps to create a repository, add their project files,
 > **Commit message guidance:** Write short, descriptive messages (e.g., “Create data folder and empty entries.json”). Small, frequent commits make it easier to review and troubleshoot.
 
 
-## 4) Verify required files
+#### 4) Verify required files
 
 - Confirm `index.html` exists at the root; this is the default entry point for GitHub Pages.
 - Confirm `assets/css/styles.css` and `assets/js/main.js` are referenced correctly from your HTML.
 
 
-## 5) Enable GitHub Pages to publish your site
+#### 5) Enable GitHub Pages to publish your site
 
 1. Go to **Settings → Pages** in your repository.
 2. Under **Build and deployment**, select:
