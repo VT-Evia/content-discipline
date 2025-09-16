@@ -27,7 +27,7 @@ Each page on the planned website must follow the same structure and contain one 
 When we practice this activity, we allow students to use generative AI tools to generate the skeleton HTML, CSS, and JS files for the project, but their prompts must not ask for sample content. Students' prompts must emphasize functionality and user experience. We recommend having students use an LLM chat agent such as ChatGPT or Copilot to generate the code for their HTML, CSS, and JS files. Students can prompt the chat agent to develop a consistent structure for each web page in accordance with their content model. Students should save their files to a local folder on their machine (they will then upload their files to a GitHub repository that they will create as their next main task). 
 
 Two alterative ways to generate the skeleton HTML, CSS, and JS files are as follows: 
-- Use GitHub Copilot (via the "Chat with Copilot" icon in Github next to the search box). This approach allows for pushing the files directly to a GitHub repository - Copilot can be prompted to do this.
+- Use GitHub Copilot (via the "Chat with Copilot" icon in GitHub next to the search box). This approach allows for pushing the files directly to a GitHub repository - Copilot can be prompted to do this.
 - Use the desktop version of [Visual Studio Code](https://code.visualstudio.com/). Visual Studio Code integrates with GitHub. Students who do not have a subscription to GitHub Copilot can sign up for a 30-day free trial directly from the downloaded version of Visual Studio Code. Using GitHub Copilot in Visual Studio Code, students can generate the HTML, CSS, and JS files for their website. They can also push these files directly to a GitHub repository.  
 
 #### Sample Prompt
