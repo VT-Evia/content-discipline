@@ -4,7 +4,7 @@ In this stage, activities focus on processing content topics to produce user-fac
 
 ## Multichannel Publishing with Markdown Activity
 
-For this activity, we recommend using the [Markdown/Pandoc GitHub Actions template](https://github.com/VT-Evia/pandocactions) repository in combination with a Markdown editor such as Visual Studio Code. See the [Stage 3 resources](../stage3/resources.md) page. The template will take Markdown topics as input and process them via the document converter [Pandoc](https://pandoc.org/) to create deliverables in HTML, PDF, and EPUB formats.
+For this activity, we recommend using the [Markdown/Pandoc GitHub Actions template](https://github.com/VT-Evia/pandocactions) repository in combination with a Markdown editor such as Visual Studio Code. See the [Stage 3 resources](../stage3/resources.md) page. The template will take Markdown topics as input and process them via the document converter [Pandoc](https://pandoc.org/) to create deliverables in HTML, PDF, and EPUB formats. For guidance on how to write text using Markdown, we recommend this [Markdown Tutorial](https://www.markdowntutorial.com/) and [The Markdown Guide](https://www.markdownguide.org/) (includes a downloadable Markdown Cheat Sheet). 
 
 ### Overview
 
@@ -64,7 +64,7 @@ index.md
 10-love-me-not.md
 ```
 
-In this example, `index.md` would be an introductory topic that would become the home page of a website deliverable or the introduction of a PDF or EPUB deliverable. 
+In this example, `index.md` would be an introductory topic that would become the home page of a website deliverable or the introduction of a PDF or EPUB deliverable. The numbers in the file names define the order in the menu.
 
 Follow the placement of files steps in the template repository's README file.
 
