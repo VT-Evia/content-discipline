@@ -20,6 +20,7 @@
 
 ### Videos and Websites
 - [Markdown Tutorial](https://www.markdowntutorial.com/), a free, GitHub-based tutorial developed by Garen Torikian.
+- [The Markdown Guide](https://www.markdownguide.org/), a free reference guide that explains how to use Markdown.
 - [Learning DITA](https://learningdita.com/), a collection of DITA video and text tutorials maintained by Scriptorium.
 - The YouTube playlist [“GitHub for Beginners](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f),” from the official GitHub account. Technical content students can skip the “Beginner Git Commands” video.
   
@@ -37,6 +38,7 @@ For this stage, we recommend several [resources developed and maintained by the 
 Some colleagues in academia report that at this stage the trap of working with too many tools (including expensive enterprise-level content management systems) can be intimidating. We recommend a few software tools to get started and focus on content creation and management on a budget. Proven tools at this stage include the following:
 
 - [Visual Studio Code](https://code.visualstudio.com/). An open source code editor for editing Markdown, HTML, and XML files. Integrates with GitHub.
+- [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor). A free, lightweight editor that runs in your browser when signed in to GitHub. You can edit DITA and Markdown files and commit code changes directly to your GitHub repository. 
 - [Oxygen XML Editor](https://www.oxygenxml.com/). An affordable XML editor with peerless (at this price point) DITA support. Its generous 30-day free trial can be enough for many introductory assignments.
 - [Oxygen Web Author](https://www.oxygenxml.com/xml_web_author.html). The free demo of this web-based app (with clean GitHub integration) is fully functional for DITA XML editing.
 - [XMLMind](https://www.xmlmind.com/). An entry-level DITA editor with an open source personal edition. 
