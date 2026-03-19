@@ -4,7 +4,7 @@ Stage 4 is closely related to Stage 3. Therefore, most readings, tutorials, and 
 
 ## Template repositories
 
-- [DITA Open Toolkit GitHub Actions template](https://github.com/VT-Evia/dita-ot-actions)
+- [DITA Open Toolkit GitHub Actions template](https://github.com/VT-Evia/DITA-OT-GH-Actions)
 - [Markdown/Pandoc GitHub Actions template](https://github.com/VT-Evia/pandocactions)
 
 Please follow the instructions on each template repository in combination with the [Activities](activity.md) listed for this stage.
